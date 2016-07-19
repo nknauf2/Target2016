@@ -1,0 +1,1010 @@
+{
+    "HiSPARC_508": {
+        "network": "HiSPARC", 
+        "altitude": 52.51, 
+        "number": 508, 
+        "longitude": 4.950708, 
+        "latitude": 52.356351, 
+        "name": "HiSPARC_508"
+    }, 
+    "HiSPARC_2005": {
+        "network": "HiSPARC", 
+        "altitude": 63.16, 
+        "number": 2005, 
+        "longitude": 5.839183, 
+        "latitude": 51.806622, 
+        "name": "HiSPARC_2005"
+    }, 
+    "HiSPARC_20002": {
+        "network": "HiSPARC", 
+        "altitude": 80.36, 
+        "number": 20002, 
+        "longitude": 10.20236, 
+        "latitude": 56.167433, 
+        "name": "HiSPARC_20002"
+    }, 
+    "HiSPARC_20003": {
+        "network": "HiSPARC", 
+        "altitude": 84.38, 
+        "number": 20003, 
+        "longitude": 10.202932, 
+        "latitude": 56.165611, 
+        "name": "HiSPARC_20003"
+    }, 
+    "HiSPARC_20001": {
+        "network": "HiSPARC", 
+        "altitude": 91.39, 
+        "number": 20001, 
+        "longitude": 10.198652, 
+        "latitude": 56.1671, 
+        "name": "HiSPARC_20001"
+    }, 
+    "HiSPARC_3302": {
+        "network": "HiSPARC", 
+        "altitude": 50.34, 
+        "number": 3302, 
+        "longitude": 4.658943, 
+        "latitude": 52.135314, 
+        "name": "HiSPARC_3302"
+    }, 
+    "HiSPARC_2101": {
+        "network": "HiSPARC", 
+        "altitude": 91.46, 
+        "number": 2101, 
+        "longitude": 5.977004, 
+        "latitude": 51.519639, 
+        "name": "HiSPARC_2101"
+    }, 
+    "HiSPARC_2102": {
+        "network": "HiSPARC", 
+        "altitude": 85.04, 
+        "number": 2102, 
+        "longitude": 5.974906, 
+        "latitude": 51.518762, 
+        "name": "HiSPARC_2102"
+    }, 
+    "HiSPARC_2103": {
+        "network": "HiSPARC", 
+        "altitude": 72.32, 
+        "number": 2103, 
+        "longitude": 5.980212, 
+        "latitude": 51.514426, 
+        "name": "HiSPARC_2103"
+    }, 
+    "HiSPARC_3201": {
+        "network": "HiSPARC", 
+        "altitude": 51.13, 
+        "number": 3201, 
+        "longitude": 4.158941, 
+        "latitude": 51.75387, 
+        "name": "HiSPARC_3201"
+    }, 
+    "HiSPARC_3202": {
+        "network": "HiSPARC", 
+        "altitude": 59.11, 
+        "number": 3202, 
+        "longitude": 4.160356, 
+        "latitude": 51.755879, 
+        "name": "HiSPARC_3202"
+    }, 
+    "HiSPARC_3203": {
+        "network": "HiSPARC", 
+        "altitude": 51.4, 
+        "number": 3203, 
+        "longitude": 4.161211, 
+        "latitude": 51.755123, 
+        "name": "HiSPARC_3203"
+    }, 
+    "HiSPARC_1010": {
+        "network": "HiSPARC", 
+        "altitude": 62.24, 
+        "number": 1010, 
+        "longitude": 5.164909, 
+        "latitude": 52.088319, 
+        "name": "HiSPARC_1010"
+    }, 
+    "HiSPARC_8201": {
+        "network": "HiSPARC", 
+        "altitude": 90.73, 
+        "number": 8201, 
+        "longitude": 5.978091, 
+        "latitude": 51.320653, 
+        "name": "HiSPARC_8201"
+    }, 
+    "HiSPARC_3501": {
+        "network": "HiSPARC", 
+        "altitude": 59.69, 
+        "number": 3501, 
+        "longitude": 4.368244, 
+        "latitude": 52.001781, 
+        "name": "HiSPARC_3501"
+    }, 
+    "HiSPARC_13501": {
+        "network": "HiSPARC", 
+        "altitude": 126.26, 
+        "number": 13501, 
+        "longitude": -3.553082, 
+        "latitude": 50.477062, 
+        "name": "HiSPARC_13501"
+    }, 
+    "HiSPARC_7002": {
+        "network": "HiSPARC", 
+        "altitude": 110.93, 
+        "number": 7002, 
+        "longitude": 6.858107, 
+        "latitude": 52.23823, 
+        "name": "HiSPARC_7002"
+    }, 
+    "HiSPARC_7003": {
+        "network": "HiSPARC", 
+        "altitude": 94.51, 
+        "number": 7003, 
+        "longitude": 6.857449, 
+        "latitude": 52.238327, 
+        "name": "HiSPARC_7003"
+    }, 
+    "HiSPARC_7001": {
+        "network": "HiSPARC", 
+        "altitude": 93.7, 
+        "number": 7001, 
+        "longitude": 6.858441, 
+        "latitude": 52.238703, 
+        "name": "HiSPARC_7001"
+    }, 
+    "HiSPARC_6": {
+        "network": "HiSPARC", 
+        "altitude": 53.86, 
+        "number": 6, 
+        "longitude": 4.926733, 
+        "latitude": 52.395131, 
+        "name": "HiSPARC_6"
+    }, 
+    "HiSPARC_3105": {
+        "network": "HiSPARC", 
+        "altitude": 56.8, 
+        "number": 3105, 
+        "longitude": 4.394633, 
+        "latitude": 51.818232, 
+        "name": "HiSPARC_3105"
+    }, 
+    "HiSPARC_3104": {
+        "network": "HiSPARC", 
+        "altitude": 51.86, 
+        "number": 3104, 
+        "longitude": 4.532156, 
+        "latitude": 51.843736, 
+        "name": "HiSPARC_3104"
+    }, 
+    "HiSPARC_3103": {
+        "network": "HiSPARC", 
+        "altitude": 45.99, 
+        "number": 3103, 
+        "longitude": 4.643027, 
+        "latitude": 51.817198, 
+        "name": "HiSPARC_3103"
+    }, 
+    "HiSPARC_3102": {
+        "network": "HiSPARC", 
+        "altitude": 51.31, 
+        "number": 3102, 
+        "longitude": 4.644212, 
+        "latitude": 51.834537, 
+        "name": "HiSPARC_3102"
+    }, 
+    "HiSPARC_3101": {
+        "network": "HiSPARC", 
+        "altitude": 55.13, 
+        "number": 3101, 
+        "longitude": 4.655271, 
+        "latitude": 51.822391, 
+        "name": "HiSPARC_3101"
+    }, 
+    "HiSPARC_14001": {
+        "network": "HiSPARC", 
+        "altitude": 204.14, 
+        "number": 14001, 
+        "longitude": -1.929045, 
+        "latitude": 52.44988, 
+        "name": "HiSPARC_14001"
+    }, 
+    "HiSPARC_14003": {
+        "network": "HiSPARC", 
+        "altitude": 189.11, 
+        "number": 14003, 
+        "longitude": -1.925474, 
+        "latitude": 52.450939, 
+        "name": "HiSPARC_14003"
+    }, 
+    "HiSPARC_14002": {
+        "network": "HiSPARC", 
+        "altitude": 193.15, 
+        "number": 14002, 
+        "longitude": -1.857152, 
+        "latitude": 52.477749, 
+        "name": "HiSPARC_14002"
+    }, 
+    "HiSPARC_7": {
+        "network": "HiSPARC", 
+        "altitude": 60.33, 
+        "number": 7, 
+        "longitude": 4.8769, 
+        "latitude": 52.352052, 
+        "name": "HiSPARC_7"
+    }, 
+    "HiSPARC_2201": {
+        "network": "HiSPARC", 
+        "altitude": 55.52, 
+        "number": 2201, 
+        "longitude": 5.615793, 
+        "latitude": 52.333305, 
+        "name": "HiSPARC_2201"
+    }, 
+    "HiSPARC_8105": {
+        "network": "HiSPARC", 
+        "altitude": 67.46, 
+        "number": 8105, 
+        "longitude": 5.059457, 
+        "latitude": 51.531837, 
+        "name": "HiSPARC_8105"
+    }, 
+    "HiSPARC_23": {
+        "network": "HiSPARC", 
+        "altitude": 55.49, 
+        "number": 23, 
+        "longitude": 4.878408, 
+        "latitude": 52.35231, 
+        "name": "HiSPARC_23"
+    }, 
+    "HiSPARC_22": {
+        "network": "HiSPARC", 
+        "altitude": 60.7, 
+        "number": 22, 
+        "longitude": 4.873844, 
+        "latitude": 52.34943, 
+        "name": "HiSPARC_22"
+    }, 
+    "HiSPARC_21": {
+        "network": "HiSPARC", 
+        "altitude": 52.05, 
+        "number": 21, 
+        "longitude": 5.029797, 
+        "latitude": 52.309924, 
+        "name": "HiSPARC_21"
+    }, 
+    "HiSPARC_7401": {
+        "network": "HiSPARC", 
+        "altitude": 73.31, 
+        "number": 7401, 
+        "longitude": 6.740512, 
+        "latitude": 52.158536, 
+        "name": "HiSPARC_7401"
+    }, 
+    "HiSPARC_8301": {
+        "network": "HiSPARC", 
+        "altitude": 86.29, 
+        "number": 8301, 
+        "longitude": 5.717734, 
+        "latitude": 51.256065, 
+        "name": "HiSPARC_8301"
+    }, 
+    "HiSPARC_8302": {
+        "network": "HiSPARC", 
+        "altitude": 87.04, 
+        "number": 8302, 
+        "longitude": 5.709491, 
+        "latitude": 51.263319, 
+        "name": "HiSPARC_8302"
+    }, 
+    "HiSPARC_1009": {
+        "network": "HiSPARC", 
+        "altitude": 61.17, 
+        "number": 1009, 
+        "longitude": 5.097086, 
+        "latitude": 52.075209, 
+        "name": "HiSPARC_1009"
+    }, 
+    "HiSPARC_5": {
+        "network": "HiSPARC", 
+        "altitude": 54.81, 
+        "number": 5, 
+        "longitude": 4.867501, 
+        "latitude": 52.323043, 
+        "name": "HiSPARC_5"
+    }, 
+    "HiSPARC_105": {
+        "network": "HiSPARC", 
+        "altitude": 55.27, 
+        "number": 105, 
+        "longitude": 4.813198, 
+        "latitude": 52.448641, 
+        "name": "HiSPARC_105"
+    }, 
+    "HiSPARC_3401": {
+        "network": "HiSPARC", 
+        "altitude": 59.68, 
+        "number": 3401, 
+        "longitude": 3.838733, 
+        "latitude": 51.323426, 
+        "name": "HiSPARC_3401"
+    }, 
+    "HiSPARC_103": {
+        "network": "HiSPARC", 
+        "altitude": 53.43, 
+        "number": 103, 
+        "longitude": 4.799042, 
+        "latitude": 52.474779, 
+        "name": "HiSPARC_103"
+    }, 
+    "HiSPARC_102": {
+        "network": "HiSPARC", 
+        "altitude": 52.23, 
+        "number": 102, 
+        "longitude": 4.812937, 
+        "latitude": 52.449388, 
+        "name": "HiSPARC_102"
+    }, 
+    "HiSPARC_2": {
+        "network": "HiSPARC", 
+        "altitude": 54.18, 
+        "number": 2, 
+        "longitude": 4.880643, 
+        "latitude": 52.341339, 
+        "name": "HiSPARC_2"
+    }, 
+    "HiSPARC_3": {
+        "network": "HiSPARC", 
+        "altitude": 59.51, 
+        "number": 3, 
+        "longitude": 4.864541, 
+        "latitude": 52.351017, 
+        "name": "HiSPARC_3"
+    }, 
+    "HiSPARC_9": {
+        "network": "HiSPARC", 
+        "altitude": 73.2, 
+        "number": 9, 
+        "longitude": 4.866867, 
+        "latitude": 52.332884, 
+        "name": "HiSPARC_9"
+    }, 
+    "HiSPARC_8303": {
+        "network": "HiSPARC", 
+        "altitude": 77.62, 
+        "number": 8303, 
+        "longitude": 5.68472, 
+        "latitude": 51.263642, 
+        "name": "HiSPARC_8303"
+    }, 
+    "HiSPARC_7301": {
+        "network": "HiSPARC", 
+        "altitude": 65.04, 
+        "number": 7301, 
+        "longitude": 6.144478, 
+        "latitude": 52.274576, 
+        "name": "HiSPARC_7301"
+    }, 
+    "HiSPARC_7201": {
+        "network": "HiSPARC", 
+        "altitude": 64.14, 
+        "number": 7201, 
+        "longitude": 6.660018, 
+        "latitude": 52.368857, 
+        "name": "HiSPARC_7201"
+    }, 
+    "HiSPARC_13001": {
+        "network": "HiSPARC", 
+        "altitude": 159.09, 
+        "number": 13001, 
+        "longitude": -2.601924, 
+        "latitude": 51.458274, 
+        "name": "HiSPARC_13001"
+    }, 
+    "HiSPARC_13002": {
+        "network": "HiSPARC", 
+        "altitude": 116.53, 
+        "number": 13002, 
+        "longitude": -2.613154, 
+        "latitude": 51.489538, 
+        "name": "HiSPARC_13002"
+    }, 
+    "HiSPARC_13003": {
+        "network": "HiSPARC", 
+        "altitude": 125.86, 
+        "number": 13003, 
+        "longitude": -2.604412, 
+        "latitude": 51.457935, 
+        "name": "HiSPARC_13003"
+    }, 
+    "HiSPARC_13004": {
+        "network": "HiSPARC", 
+        "altitude": 132.98, 
+        "number": 13004, 
+        "longitude": -2.619531, 
+        "latitude": 51.458505, 
+        "name": "HiSPARC_13004"
+    }, 
+    "HiSPARC_13005": {
+        "network": "HiSPARC", 
+        "altitude": 124.76, 
+        "number": 13005, 
+        "longitude": -2.572665, 
+        "latitude": 51.513975, 
+        "name": "HiSPARC_13005"
+    }, 
+    "HiSPARC_13006": {
+        "network": "HiSPARC", 
+        "altitude": 122.83, 
+        "number": 13006, 
+        "longitude": -2.518322, 
+        "latitude": 51.442831, 
+        "name": "HiSPARC_13006"
+    }, 
+    "HiSPARC_13007": {
+        "network": "HiSPARC", 
+        "altitude": 102.35, 
+        "number": 13007, 
+        "longitude": -2.471557, 
+        "latitude": 51.442276, 
+        "name": "HiSPARC_13007"
+    }, 
+    "HiSPARC_13008": {
+        "network": "HiSPARC", 
+        "altitude": 74.69, 
+        "number": 13008, 
+        "longitude": -2.60013, 
+        "latitude": 51.45112, 
+        "name": "HiSPARC_13008"
+    }, 
+    "HiSPARC_401": {
+        "network": "HiSPARC", 
+        "altitude": 54.36, 
+        "number": 401, 
+        "longitude": 4.722647, 
+        "latitude": 52.639067, 
+        "name": "HiSPARC_401"
+    }, 
+    "HiSPARC_3002": {
+        "network": "HiSPARC", 
+        "altitude": 51.43, 
+        "number": 3002, 
+        "longitude": 4.485514, 
+        "latitude": 52.173149, 
+        "name": "HiSPARC_3002"
+    }, 
+    "HiSPARC_3001": {
+        "network": "HiSPARC", 
+        "altitude": 51.77, 
+        "number": 3001, 
+        "longitude": 4.4586, 
+        "latitude": 52.169041, 
+        "name": "HiSPARC_3001"
+    }, 
+    "HiSPARC_13401": {
+        "network": "HiSPARC", 
+        "altitude": 56.102346, 
+        "number": 13401, 
+        "longitude": 4.951144, 
+        "latitude": 52.355924, 
+        "name": "HiSPARC_13401"
+    }, 
+    "HiSPARC_4004": {
+        "network": "HiSPARC", 
+        "altitude": 52.74, 
+        "number": 4004, 
+        "longitude": 6.578532, 
+        "latitude": 53.237549, 
+        "name": "HiSPARC_4004"
+    }, 
+    "HiSPARC_4003": {
+        "network": "HiSPARC", 
+        "altitude": 49.58, 
+        "number": 4003, 
+        "longitude": 6.57207, 
+        "latitude": 53.221383, 
+        "name": "HiSPARC_4003"
+    }, 
+    "HiSPARC_4002": {
+        "network": "HiSPARC", 
+        "altitude": 61.27, 
+        "number": 4002, 
+        "longitude": 6.591647, 
+        "latitude": 53.184247, 
+        "name": "HiSPARC_4002"
+    }, 
+    "HiSPARC_4001": {
+        "network": "HiSPARC", 
+        "altitude": 50.5, 
+        "number": 4001, 
+        "longitude": 6.526811, 
+        "latitude": 53.249994, 
+        "name": "HiSPARC_4001"
+    }, 
+    "HiSPARC_203": {
+        "network": "HiSPARC", 
+        "altitude": 45.81, 
+        "number": 203, 
+        "longitude": 4.632369, 
+        "latitude": 52.347462, 
+        "name": "HiSPARC_203"
+    }, 
+    "HiSPARC_104": {
+        "network": "HiSPARC", 
+        "altitude": 50.24, 
+        "number": 104, 
+        "longitude": 4.814157, 
+        "latitude": 52.449079, 
+        "name": "HiSPARC_104"
+    }, 
+    "HiSPARC_13201": {
+        "network": "HiSPARC", 
+        "altitude": 164.86, 
+        "number": 13201, 
+        "longitude": -1.758808, 
+        "latitude": 51.55788, 
+        "name": "HiSPARC_13201"
+    }, 
+    "HiSPARC_101": {
+        "network": "HiSPARC", 
+        "altitude": 50.99, 
+        "number": 101, 
+        "longitude": 4.8258, 
+        "latitude": 52.474508, 
+        "name": "HiSPARC_101"
+    }, 
+    "HiSPARC_3701": {
+        "network": "HiSPARC", 
+        "altitude": 48.66, 
+        "number": 3701, 
+        "longitude": 4.257091, 
+        "latitude": 52.07328, 
+        "name": "HiSPARC_3701"
+    }, 
+    "HiSPARC_601": {
+        "network": "HiSPARC", 
+        "altitude": 43.77, 
+        "number": 601, 
+        "longitude": 5.069119, 
+        "latitude": 52.647419, 
+        "name": "HiSPARC_601"
+    }, 
+    "HiSPARC_2010": {
+        "network": "HiSPARC", 
+        "altitude": 63.57, 
+        "number": 2010, 
+        "longitude": 5.614041, 
+        "latitude": 51.88703, 
+        "name": "HiSPARC_2010"
+    }, 
+    "HiSPARC_1101": {
+        "network": "HiSPARC", 
+        "altitude": 51.9, 
+        "number": 1101, 
+        "longitude": 5.146243, 
+        "latitude": 52.234219, 
+        "name": "HiSPARC_1101"
+    }, 
+    "HiSPARC_1102": {
+        "network": "HiSPARC", 
+        "altitude": 51.15, 
+        "number": 1102, 
+        "longitude": 4.951179, 
+        "latitude": 52.355826, 
+        "name": "HiSPARC_1102"
+    }, 
+    "HiSPARC_13301": {
+        "network": "HiSPARC", 
+        "altitude": 126.83, 
+        "number": 13301, 
+        "longitude": -2.133621, 
+        "latitude": 51.467354, 
+        "name": "HiSPARC_13301"
+    }, 
+    "HiSPARC_13101": {
+        "network": "HiSPARC", 
+        "altitude": 163.41, 
+        "number": 13101, 
+        "longitude": -2.359602, 
+        "latitude": 51.372197, 
+        "name": "HiSPARC_13101"
+    }, 
+    "HiSPARC_13103": {
+        "network": "HiSPARC", 
+        "altitude": 216.39, 
+        "number": 13103, 
+        "longitude": -2.329398, 
+        "latitude": 51.363494, 
+        "name": "HiSPARC_13103"
+    }, 
+    "HiSPARC_13102": {
+        "network": "HiSPARC", 
+        "altitude": 222.72, 
+        "number": 13102, 
+        "longitude": -2.36461, 
+        "latitude": 51.396887, 
+        "name": "HiSPARC_13102"
+    }, 
+    "HiSPARC_13104": {
+        "network": "HiSPARC", 
+        "altitude": 262.79, 
+        "number": 13104, 
+        "longitude": -2.327162, 
+        "latitude": 51.3793, 
+        "name": "HiSPARC_13104"
+    }, 
+    "HiSPARC_503": {
+        "network": "HiSPARC", 
+        "altitude": 51.44, 
+        "number": 503, 
+        "longitude": 4.952944, 
+        "latitude": 52.35626, 
+        "name": "HiSPARC_503"
+    }, 
+    "HiSPARC_502": {
+        "network": "HiSPARC", 
+        "altitude": 57.52, 
+        "number": 502, 
+        "longitude": 4.950092, 
+        "latitude": 52.355294, 
+        "name": "HiSPARC_502"
+    }, 
+    "HiSPARC_501": {
+        "network": "HiSPARC", 
+        "altitude": 57.65, 
+        "number": 501, 
+        "longitude": 4.950988, 
+        "latitude": 52.355899, 
+        "name": "HiSPARC_501"
+    }, 
+    "HiSPARC_507": {
+        "network": "HiSPARC", 
+        "altitude": 56.77, 
+        "number": 507, 
+        "longitude": 4.951479, 
+        "latitude": 52.356005, 
+        "name": "HiSPARC_507"
+    }, 
+    "HiSPARC_506": {
+        "network": "HiSPARC", 
+        "altitude": 45.47, 
+        "number": 506, 
+        "longitude": 4.951981, 
+        "latitude": 52.357187, 
+        "name": "HiSPARC_506"
+    }, 
+    "HiSPARC_505": {
+        "network": "HiSPARC", 
+        "altitude": 47.6, 
+        "number": 505, 
+        "longitude": 4.948385, 
+        "latitude": 52.357252, 
+        "name": "HiSPARC_505"
+    }, 
+    "HiSPARC_504": {
+        "network": "HiSPARC", 
+        "altitude": 54.79, 
+        "number": 504, 
+        "longitude": 4.954382, 
+        "latitude": 52.357185, 
+        "name": "HiSPARC_504"
+    }, 
+    "HiSPARC_2001": {
+        "network": "HiSPARC", 
+        "altitude": 103.36, 
+        "number": 2001, 
+        "longitude": 5.868549, 
+        "latitude": 51.823232, 
+        "name": "HiSPARC_2001"
+    }, 
+    "HiSPARC_509": {
+        "network": "HiSPARC", 
+        "altitude": 56.84, 
+        "number": 509, 
+        "longitude": 4.955698, 
+        "latitude": 52.35456, 
+        "name": "HiSPARC_509"
+    }, 
+    "HiSPARC_2002": {
+        "network": "HiSPARC", 
+        "altitude": 89.85, 
+        "number": 2002, 
+        "longitude": 5.874895, 
+        "latitude": 51.825624, 
+        "name": "HiSPARC_2002"
+    }, 
+    "HiSPARC_3301": {
+        "network": "HiSPARC", 
+        "altitude": 50.3, 
+        "number": 3301, 
+        "longitude": 4.679177, 
+        "latitude": 52.142685, 
+        "name": "HiSPARC_3301"
+    }, 
+    "HiSPARC_2004": {
+        "network": "HiSPARC", 
+        "altitude": 57.81, 
+        "number": 2004, 
+        "longitude": 5.817633, 
+        "latitude": 51.837078, 
+        "name": "HiSPARC_2004"
+    }, 
+    "HiSPARC_3303": {
+        "network": "HiSPARC", 
+        "altitude": 53.86, 
+        "number": 3303, 
+        "longitude": 4.653538, 
+        "latitude": 52.146461, 
+        "name": "HiSPARC_3303"
+    }, 
+    "HiSPARC_2006": {
+        "network": "HiSPARC", 
+        "altitude": 76.12, 
+        "number": 2006, 
+        "longitude": 5.873016, 
+        "latitude": 51.816295, 
+        "name": "HiSPARC_2006"
+    }, 
+    "HiSPARC_8009": {
+        "network": "HiSPARC", 
+        "altitude": 68.02, 
+        "number": 8009, 
+        "longitude": 5.488307, 
+        "latitude": 51.451524, 
+        "name": "HiSPARC_8009"
+    }, 
+    "HiSPARC_8008": {
+        "network": "HiSPARC", 
+        "altitude": 115.74, 
+        "number": 8008, 
+        "longitude": 5.485095, 
+        "latitude": 51.446293, 
+        "name": "HiSPARC_8008"
+    }, 
+    "HiSPARC_8003": {
+        "network": "HiSPARC", 
+        "altitude": 75.47, 
+        "number": 8003, 
+        "longitude": 5.488797, 
+        "latitude": 51.411053, 
+        "name": "HiSPARC_8003"
+    }, 
+    "HiSPARC_8002": {
+        "network": "HiSPARC", 
+        "altitude": 74.53, 
+        "number": 8002, 
+        "longitude": 5.446918, 
+        "latitude": 51.477944, 
+        "name": "HiSPARC_8002"
+    }, 
+    "HiSPARC_8001": {
+        "network": "HiSPARC", 
+        "altitude": 80.35, 
+        "number": 8001, 
+        "longitude": 5.487969, 
+        "latitude": 51.449396, 
+        "name": "HiSPARC_8001"
+    }, 
+    "HiSPARC_8007": {
+        "network": "HiSPARC", 
+        "altitude": 71.99, 
+        "number": 8007, 
+        "longitude": 5.576221, 
+        "latitude": 51.42761, 
+        "name": "HiSPARC_8007"
+    }, 
+    "HiSPARC_8006": {
+        "network": "HiSPARC", 
+        "altitude": 61.1, 
+        "number": 8006, 
+        "longitude": 5.487661, 
+        "latitude": 51.482587, 
+        "name": "HiSPARC_8006"
+    }, 
+    "HiSPARC_8005": {
+        "network": "HiSPARC", 
+        "altitude": 77.89, 
+        "number": 8005, 
+        "longitude": 5.231586, 
+        "latitude": 51.371662, 
+        "name": "HiSPARC_8005"
+    }, 
+    "HiSPARC_8004": {
+        "network": "HiSPARC", 
+        "altitude": 86.72, 
+        "number": 8004, 
+        "longitude": 5.493289, 
+        "latitude": 51.446864, 
+        "name": "HiSPARC_8004"
+    }, 
+    "HiSPARC_8102": {
+        "network": "HiSPARC", 
+        "altitude": 73.18, 
+        "number": 8102, 
+        "longitude": 5.077171, 
+        "latitude": 51.557144, 
+        "name": "HiSPARC_8102"
+    }, 
+    "HiSPARC_8103": {
+        "network": "HiSPARC", 
+        "altitude": 64.67, 
+        "number": 8103, 
+        "longitude": 5.061953, 
+        "latitude": 51.561527, 
+        "name": "HiSPARC_8103"
+    }, 
+    "HiSPARC_8101": {
+        "network": "HiSPARC", 
+        "altitude": 73.1, 
+        "number": 8101, 
+        "longitude": 5.084014, 
+        "latitude": 51.541727, 
+        "name": "HiSPARC_8101"
+    }, 
+    "HiSPARC_8104": {
+        "network": "HiSPARC", 
+        "altitude": 57.36, 
+        "number": 8104, 
+        "longitude": 4.859304, 
+        "latitude": 51.634947, 
+        "name": "HiSPARC_8104"
+    }, 
+    "HiSPARC_2008": {
+        "network": "HiSPARC", 
+        "altitude": 80.99, 
+        "number": 2008, 
+        "longitude": 5.845697, 
+        "latitude": 51.824793, 
+        "name": "HiSPARC_2008"
+    }, 
+    "HiSPARC_201": {
+        "network": "HiSPARC", 
+        "altitude": 53.34, 
+        "number": 201, 
+        "longitude": 4.61309, 
+        "latitude": 52.362403, 
+        "name": "HiSPARC_201"
+    }, 
+    "HiSPARC_305": {
+        "network": "HiSPARC", 
+        "altitude": 51.71, 
+        "number": 305, 
+        "longitude": 4.671813, 
+        "latitude": 52.54935, 
+        "name": "HiSPARC_305"
+    }, 
+    "HiSPARC_304": {
+        "network": "HiSPARC", 
+        "altitude": 49.29, 
+        "number": 304, 
+        "longitude": 4.668104, 
+        "latitude": 52.541622, 
+        "name": "HiSPARC_304"
+    }, 
+    "HiSPARC_301": {
+        "network": "HiSPARC", 
+        "altitude": 60.04, 
+        "number": 301, 
+        "longitude": 4.687011, 
+        "latitude": 52.551857, 
+        "name": "HiSPARC_301"
+    }, 
+    "HiSPARC_202": {
+        "network": "HiSPARC", 
+        "altitude": 50.21, 
+        "number": 202, 
+        "longitude": 4.681627, 
+        "latitude": 52.310219, 
+        "name": "HiSPARC_202"
+    }, 
+    "HiSPARC_303": {
+        "network": "HiSPARC", 
+        "altitude": 56.47, 
+        "number": 303, 
+        "longitude": 4.66132, 
+        "latitude": 52.494334, 
+        "name": "HiSPARC_303"
+    }, 
+    "HiSPARC_510": {
+        "network": "HiSPARC", 
+        "altitude": 55.78, 
+        "number": 510, 
+        "longitude": 4.951006, 
+        "latitude": 52.355888, 
+        "name": "HiSPARC_510"
+    }, 
+    "HiSPARC_511": {
+        "network": "HiSPARC", 
+        "altitude": 57.86, 
+        "number": 511, 
+        "longitude": 4.948582, 
+        "latitude": 52.356436, 
+        "name": "HiSPARC_511"
+    }, 
+    "HiSPARC_7101": {
+        "network": "HiSPARC", 
+        "altitude": 70.08, 
+        "number": 7101, 
+        "longitude": 6.79793, 
+        "latitude": 52.273632, 
+        "name": "HiSPARC_7101"
+    }, 
+    "HiSPARC_13": {
+        "network": "HiSPARC", 
+        "altitude": 55.6, 
+        "number": 13, 
+        "longitude": 4.824789, 
+        "latitude": 52.362508, 
+        "name": "HiSPARC_13"
+    }, 
+    "HiSPARC_1008": {
+        "network": "HiSPARC", 
+        "altitude": 52.88, 
+        "number": 1008, 
+        "longitude": 5.13294, 
+        "latitude": 52.0821, 
+        "name": "HiSPARC_1008"
+    }, 
+    "HiSPARC_3601": {
+        "network": "HiSPARC", 
+        "altitude": 61.35, 
+        "number": 3601, 
+        "longitude": 4.356737, 
+        "latitude": 52.073317, 
+        "name": "HiSPARC_3601"
+    }, 
+    "HiSPARC_10": {
+        "network": "HiSPARC", 
+        "altitude": 60.24, 
+        "number": 10, 
+        "longitude": 4.855297, 
+        "latitude": 52.287549, 
+        "name": "HiSPARC_10"
+    }, 
+    "HiSPARC_1001": {
+        "network": "HiSPARC", 
+        "altitude": 85.16, 
+        "number": 1001, 
+        "longitude": 5.165932, 
+        "latitude": 52.087218, 
+        "name": "HiSPARC_1001"
+    }, 
+    "HiSPARC_1002": {
+        "network": "HiSPARC", 
+        "altitude": 68.41, 
+        "number": 1002, 
+        "longitude": 5.122091, 
+        "latitude": 52.082497, 
+        "name": "HiSPARC_1002"
+    }, 
+    "HiSPARC_1003": {
+        "network": "HiSPARC", 
+        "altitude": 57.82, 
+        "number": 1003, 
+        "longitude": 5.129337, 
+        "latitude": 52.085356, 
+        "name": "HiSPARC_1003"
+    }, 
+    "HiSPARC_2003": {
+        "network": "HiSPARC", 
+        "altitude": 84.15, 
+        "number": 2003, 
+        "longitude": 5.85547, 
+        "latitude": 51.847368, 
+        "name": "HiSPARC_2003"
+    }, 
+    "HiSPARC_1006": {
+        "network": "HiSPARC", 
+        "altitude": 56.22, 
+        "number": 1006, 
+        "longitude": 5.148916, 
+        "latitude": 52.082127, 
+        "name": "HiSPARC_1006"
+    }, 
+    "HiSPARC_1007": {
+        "network": "HiSPARC", 
+        "altitude": 49.33, 
+        "number": 1007, 
+        "longitude": 5.149951, 
+        "latitude": 52.083956, 
+        "name": "HiSPARC_1007"
+    }
+}

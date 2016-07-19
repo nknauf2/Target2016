@@ -1,0 +1,3395 @@
+{
+    "QuarkNet_6128": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6128, 
+        "longitude": -123.072167, 
+        "label": "Thurston High School,Springfield", 
+        "latitude": 44.04602, 
+        "name": "QuarkNet_6128"
+    }, 
+    "QuarkNet_6122": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6122, 
+        "longitude": -97.78255, 
+        "label": "Cheney High School,Cheney High School", 
+        "latitude": 37.633555, 
+        "name": "QuarkNet_6122"
+    }, 
+    "QuarkNet_6120": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6120, 
+        "longitude": -95.248899, 
+        "label": "Olathe Northwest High School,Olathe", 
+        "latitude": 38.957204, 
+        "name": "QuarkNet_6120"
+    }, 
+    "QuarkNet_6121": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6121, 
+        "longitude": -74.464833, 
+        "label": "Millburn High School,Millburn", 
+        "latitude": 40.522833, 
+        "name": "QuarkNet_6121"
+    }, 
+    "QuarkNet_6126": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6126, 
+        "longitude": -93.2063, 
+        "label": "Lakeville North High School,Lakeville North High School", 
+        "latitude": 45.091467, 
+        "name": "QuarkNet_6126"
+    }, 
+    "QuarkNet_6127": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6127, 
+        "longitude": -122.060523, 
+        "label": "Independence High School,San Jose", 
+        "latitude": 36.998468, 
+        "name": "QuarkNet_6127"
+    }, 
+    "QuarkNet_6124": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6124, 
+        "longitude": -78.857667, 
+        "label": "Nardin Academy,Buffalo", 
+        "latitude": 42.942452, 
+        "name": "QuarkNet_6124"
+    }, 
+    "QuarkNet_6690": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6690, 
+        "longitude": -87.830929, 
+        "label": "Glenbrook North High School,Glenbrook North High School", 
+        "latitude": 42.11197, 
+        "name": "QuarkNet_6690"
+    }, 
+    "QuarkNet_6691": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6691, 
+        "longitude": -1.265, 
+        "label": "Radley College,Radley College", 
+        "latitude": 52.370833, 
+        "name": "QuarkNet_6691"
+    }, 
+    "QuarkNet_6692": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6692, 
+        "longitude": -76.7685, 
+        "label": "West York Area High School,York", 
+        "latitude": 39.958847, 
+        "name": "QuarkNet_6692"
+    }, 
+    "QuarkNet_6878": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6878, 
+        "longitude": -90.467333, 
+        "label": "Parkway North High School,Parkway North High School", 
+        "latitude": 38.690633, 
+        "name": "QuarkNet_6878"
+    }, 
+    "QuarkNet_6470": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6470, 
+        "longitude": -88.765167, 
+        "label": "Sterling High School,Sterling", 
+        "latitude": 41.932677, 
+        "name": "QuarkNet_6470"
+    }, 
+    "QuarkNet_6471": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6471, 
+        "longitude": -78.869823, 
+        "label": "Canisius High School,Buffalo", 
+        "latitude": 42.915496, 
+        "name": "QuarkNet_6471"
+    }, 
+    "QuarkNet_6477": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6477, 
+        "longitude": 100.318333, 
+        "label": "Mahidol Wittayanusorn School,Nakorn Pathom", 
+        "latitude": 13.8, 
+        "name": "QuarkNet_6477"
+    }, 
+    "QuarkNet_6678": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6678, 
+        "longitude": -87.786, 
+        "label": "Glenbrook South High School,Glenview", 
+        "latitude": 42.0685, 
+        "name": "QuarkNet_6678"
+    }, 
+    "QuarkNet_6679": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6679, 
+        "longitude": -90.668104, 
+        "label": "Fort Zumwalt North High,Fort Zumwalt North High", 
+        "latitude": 38.820427, 
+        "name": "QuarkNet_6679"
+    }, 
+    "QuarkNet_6676": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6676, 
+        "longitude": -78.434833, 
+        "label": "Liceo Internacional,Quito", 
+        "latitude": -0.196183, 
+        "name": "QuarkNet_6676"
+    }, 
+    "QuarkNet_6674": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6674, 
+        "longitude": -86.236333, 
+        "label": "QuarkNet Center at Notre Dame,QuarkNet Center at Notre Dame", 
+        "latitude": 41.688395, 
+        "name": "QuarkNet_6674"
+    }, 
+    "QuarkNet_6672": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6672, 
+        "longitude": -74.465, 
+        "label": "Matawan Regional High School,Aberdeen", 
+        "latitude": 40.522833, 
+        "name": "QuarkNet_6672"
+    }, 
+    "QuarkNet_6673": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6673, 
+        "longitude": -86.525167, 
+        "label": "Edgewood High School,Ellettsville", 
+        "latitude": 39.164833, 
+        "name": "QuarkNet_6673"
+    }, 
+    "QuarkNet_79": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 79, 
+        "longitude": -71.124787, 
+        "label": "Fermilab,Fermilab", 
+        "latitude": 42.430042, 
+        "name": "QuarkNet_79"
+    }, 
+    "QuarkNet_194": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 194, 
+        "longitude": -80.624027, 
+        "label": "Melbourne High School,Melbourne", 
+        "latitude": 28.06235, 
+        "name": "QuarkNet_194"
+    }, 
+    "QuarkNet_190": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 190, 
+        "longitude": -106.848947, 
+        "label": "Aspen High School,Aspen", 
+        "latitude": 39.189188, 
+        "name": "QuarkNet_190"
+    }, 
+    "QuarkNet_6404": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6404, 
+        "longitude": -123.015667, 
+        "label": "Springfield High School,Springfield", 
+        "latitude": 44.053167, 
+        "name": "QuarkNet_6404"
+    }, 
+    "QuarkNet_6407": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6407, 
+        "longitude": -76.622718, 
+        "label": "Towson High School,Towson", 
+        "latitude": 39.331401, 
+        "name": "QuarkNet_6407"
+    }, 
+    "QuarkNet_6406": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6406, 
+        "longitude": -76.623055, 
+        "label": "South River High School,Edgewater", 
+        "latitude": 39.331373, 
+        "name": "QuarkNet_6406"
+    }, 
+    "QuarkNet_198": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 198, 
+        "longitude": -71.155935, 
+        "label": "Needham High School,Needham", 
+        "latitude": 41.108817, 
+        "name": "QuarkNet_198"
+    }, 
+    "QuarkNet_6400": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6400, 
+        "longitude": -90.467334, 
+        "label": "Fort Zumwalt North High,Fort Zumwalt North High", 
+        "latitude": 38.690633, 
+        "name": "QuarkNet_6400"
+    }, 
+    "QuarkNet_6403": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6403, 
+        "longitude": -87.61572, 
+        "label": "Gwendolyn Brooks College Prep,Chicago", 
+        "latitude": 41.694742, 
+        "name": "QuarkNet_6403"
+    }, 
+    "QuarkNet_6899": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6899, 
+        "longitude": -93.471221, 
+        "label": "Providence Academy,Providence Academy", 
+        "latitude": 45.04559, 
+        "name": "QuarkNet_6899"
+    }, 
+    "QuarkNet_11": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 11, 
+        "longitude": -80.624055, 
+        "label": "Florida Institute of Technology,Melbourne", 
+        "latitude": 28.062293, 
+        "name": "QuarkNet_11"
+    }, 
+    "QuarkNet_17": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 17, 
+        "longitude": -96.678705, 
+        "label": "University of Nebraska,Lincoln", 
+        "latitude": 40.799338, 
+        "name": "QuarkNet_17"
+    }, 
+    "QuarkNet_6150": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6150, 
+        "longitude": -86.236833, 
+        "label": "Lakeshore High School,Stevensville", 
+        "latitude": 41.688275, 
+        "name": "QuarkNet_6150"
+    }, 
+    "QuarkNet_6157": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6157, 
+        "longitude": -76.987333, 
+        "label": "Messiah College,Grantham", 
+        "latitude": 40.157143, 
+        "name": "QuarkNet_6157"
+    }, 
+    "QuarkNet_6156": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6156, 
+        "longitude": -76.623333, 
+        "label": "Hereford High School,Parkton", 
+        "latitude": 39.331785, 
+        "name": "QuarkNet_6156"
+    }, 
+    "QuarkNet_6155": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6155, 
+        "longitude": 121.5464, 
+        "label": "Soochow University,Taipei", 
+        "latitude": 25.09325, 
+        "name": "QuarkNet_6155"
+    }, 
+    "QuarkNet_6154": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6154, 
+        "longitude": -67.0, 
+        "label": "Colegio RUM,Mayaguez", 
+        "latitude": 18.0, 
+        "name": "QuarkNet_6154"
+    }, 
+    "QuarkNet_109": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 109, 
+        "longitude": -88.083173, 
+        "label": "Romeoville High School,Romeoville", 
+        "latitude": 41.627482, 
+        "name": "QuarkNet_109"
+    }, 
+    "QuarkNet_108": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 108, 
+        "longitude": -87.722763, 
+        "label": "Curie High School,Chicago", 
+        "latitude": 41.801867, 
+        "name": "QuarkNet_108"
+    }, 
+    "QuarkNet_107": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 107, 
+        "longitude": -87.707933, 
+        "label": "Northside College Prep High School,Chicago", 
+        "latitude": 41.981892, 
+        "name": "QuarkNet_107"
+    }, 
+    "QuarkNet_104": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 104, 
+        "longitude": -87.974543, 
+        "label": "Alan Shepard High School,Palos Heights", 
+        "latitude": 41.706885, 
+        "name": "QuarkNet_104"
+    }, 
+    "QuarkNet_103": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 103, 
+        "longitude": -88.26152, 
+        "label": "Fermilab Test Array,Batavia", 
+        "latitude": 41.838517, 
+        "name": "QuarkNet_103"
+    }, 
+    "QuarkNet_6706": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6706, 
+        "longitude": -96.806333, 
+        "label": "Science and Engineering Magnet,Science and Engineering Magnet", 
+        "latitude": 32.752333, 
+        "name": "QuarkNet_6706"
+    }, 
+    "QuarkNet_6704": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6704, 
+        "longitude": -103.86265, 
+        "label": "Spearfish High School,Spearfish High School", 
+        "latitude": 44.500536, 
+        "name": "QuarkNet_6704"
+    }, 
+    "QuarkNet_6705": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6705, 
+        "longitude": -104.209958, 
+        "label": "Newcastle High School,Newcastle High School", 
+        "latitude": 43.850149, 
+        "name": "QuarkNet_6705"
+    }, 
+    "QuarkNet_6702": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6702, 
+        "longitude": -77.605167, 
+        "label": "Mills Godwin High School,Henrico", 
+        "latitude": 37.619552, 
+        "name": "QuarkNet_6702"
+    }, 
+    "QuarkNet_6703": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6703, 
+        "longitude": -87.851333, 
+        "label": "Glenbrook North High School,Northbrook", 
+        "latitude": 42.088167, 
+        "name": "QuarkNet_6703"
+    }, 
+    "QuarkNet_6709": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6709, 
+        "longitude": -93.2063, 
+        "label": "Irondale High School,Irondale High School", 
+        "latitude": 45.091467, 
+        "name": "QuarkNet_6709"
+    }, 
+    "QuarkNet_6838": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6838, 
+        "longitude": -97.042352, 
+        "label": "National Center for Mathematics and Physics,Riyadh", 
+        "latitude": 37.061372, 
+        "name": "QuarkNet_6838"
+    }, 
+    "QuarkNet_6839": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6839, 
+        "longitude": -122.30352, 
+        "label": "University of Washington,Seattle", 
+        "latitude": 47.655335, 
+        "name": "QuarkNet_6839"
+    }, 
+    "QuarkNet_6831": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6831, 
+        "longitude": -105.136618, 
+        "label": "Castle View High School,Castle Rock", 
+        "latitude": 40.959335, 
+        "name": "QuarkNet_6831"
+    }, 
+    "QuarkNet_6832": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6832, 
+        "longitude": -70.610767, 
+        "label": "Pontificia Universidad Catolica,Pontificia Universidad Catolica", 
+        "latitude": -33.499515, 
+        "name": "QuarkNet_6832"
+    }, 
+    "QuarkNet_6833": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6833, 
+        "longitude": -76.135405, 
+        "label": "Canandaigua Academy,Canandaigua", 
+        "latitude": 43.036961, 
+        "name": "QuarkNet_6833"
+    }, 
+    "QuarkNet_6834": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6834, 
+        "longitude": -76.135405, 
+        "label": "Baker High School,Baldwinsville", 
+        "latitude": 43.036961, 
+        "name": "QuarkNet_6834"
+    }, 
+    "QuarkNet_6836": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6836, 
+        "longitude": 46.6415, 
+        "label": "National Center for Mathematics and Physics,National Center for Mathematics and Physics", 
+        "latitude": 24.716288, 
+        "name": "QuarkNet_6836"
+    }, 
+    "QuarkNet_6208": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6208, 
+        "longitude": -65.947333, 
+        "label": "Episcopal Cathedral School,San Juan", 
+        "latitude": 18.24782, 
+        "name": "QuarkNet_6208"
+    }, 
+    "QuarkNet_6203": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6203, 
+        "longitude": -88.262055, 
+        "label": "Fermilab Test Array,Fermilab Test Array", 
+        "latitude": 41.838805, 
+        "name": "QuarkNet_6203"
+    }, 
+    "QuarkNet_6202": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6202, 
+        "longitude": -97.042305, 
+        "label": "Cowley College,Cowley College", 
+        "latitude": 37.061394, 
+        "name": "QuarkNet_6202"
+    }, 
+    "QuarkNet_6201": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6201, 
+        "longitude": -80.294, 
+        "label": "Felix Varela Senior High School,Miami", 
+        "latitude": 25.916, 
+        "name": "QuarkNet_6201"
+    }, 
+    "QuarkNet_6200": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6200, 
+        "longitude": -73.872398, 
+        "label": "Hastings High School,Hastings-on-Hudson", 
+        "latitude": 41.027177, 
+        "name": "QuarkNet_6200"
+    }, 
+    "QuarkNet_6206": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6206, 
+        "longitude": -87.648348, 
+        "label": "Golder College Prep,Golder College Prep", 
+        "latitude": 41.871166, 
+        "name": "QuarkNet_6206"
+    }, 
+    "QuarkNet_6205": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6205, 
+        "longitude": 120.220159, 
+        "label": "National Cheng Kung University NCKU,National Cheng Kung University NCKU", 
+        "latitude": 22.99751, 
+        "name": "QuarkNet_6205"
+    }, 
+    "QuarkNet_6633": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6633, 
+        "longitude": 44.743747, 
+        "label": "Tbilisi State University,Tbilisi State University", 
+        "latitude": 41.720772, 
+        "name": "QuarkNet_6633"
+    }, 
+    "QuarkNet_6634": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6634, 
+        "longitude": 6.070833, 
+        "label": "College du Joran,Prevessin", 
+        "latitude": 46.254, 
+        "name": "QuarkNet_6634"
+    }, 
+    "QuarkNet_5059": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5059, 
+        "longitude": 95.4285, 
+        "label": "St. Johns School,Houston", 
+        "latitude": 29.742833, 
+        "name": "QuarkNet_5059"
+    }, 
+    "QuarkNet_5058": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5058, 
+        "longitude": -123.073793, 
+        "label": "Silverton High School,Silverton", 
+        "latitude": 44.045802, 
+        "name": "QuarkNet_5058"
+    }, 
+    "QuarkNet_6849": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6849, 
+        "longitude": -122.891503, 
+        "label": "Kelso High School,Kelso High School", 
+        "latitude": 46.14405, 
+        "name": "QuarkNet_6849"
+    }, 
+    "QuarkNet_6848": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6848, 
+        "longitude": -87.648208, 
+        "label": "University of Illinois at Chicago,University of Illinois at Chicago", 
+        "latitude": 41.870537, 
+        "name": "QuarkNet_6848"
+    }, 
+    "QuarkNet_6845": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6845, 
+        "longitude": -88.261638, 
+        "label": "Fermilab Test Array,Fermilab Test Array", 
+        "latitude": 41.838647, 
+        "name": "QuarkNet_6845"
+    }, 
+    "QuarkNet_6844": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6844, 
+        "longitude": -122.311367, 
+        "label": "University of Washington,Seattle", 
+        "latitude": 47.653955, 
+        "name": "QuarkNet_6844"
+    }, 
+    "QuarkNet_5050": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5050, 
+        "longitude": -86.236865, 
+        "label": "Lakeshore High School,Stevensville", 
+        "latitude": 41.688308, 
+        "name": "QuarkNet_5050"
+    }, 
+    "QuarkNet_5057": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5057, 
+        "longitude": -76.194947, 
+        "label": "Norfolk Academy,Norfolk", 
+        "latitude": 36.872922, 
+        "name": "QuarkNet_5057"
+    }, 
+    "QuarkNet_6840": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6840, 
+        "longitude": -122.117782, 
+        "label": "Liberty High School,Issaquah", 
+        "latitude": 47.480017, 
+        "name": "QuarkNet_6840"
+    }, 
+    "QuarkNet_6330": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6330, 
+        "longitude": -88.261443, 
+        "label": "South Haven High School,South Haven High School", 
+        "latitude": 41.83805, 
+        "name": "QuarkNet_6330"
+    }, 
+    "QuarkNet_22": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 22, 
+        "longitude": -87.826667, 
+        "label": "Glenbrook South High School,Glenview", 
+        "latitude": 42.083333, 
+        "name": "QuarkNet_22"
+    }, 
+    "QuarkNet_6443": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6443, 
+        "longitude": -103.862548, 
+        "label": "Spearfish High School,Spearfish", 
+        "latitude": 44.500512, 
+        "name": "QuarkNet_6443"
+    }, 
+    "QuarkNet_6442": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6442, 
+        "longitude": -122.060506, 
+        "label": "Independence High School,San Jose", 
+        "latitude": 36.998473, 
+        "name": "QuarkNet_6442"
+    }, 
+    "QuarkNet_6445": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6445, 
+        "longitude": -122.456012, 
+        "label": "The Bay School of San Francisco,The Bay School of San Francisco", 
+        "latitude": 37.800232, 
+        "name": "QuarkNet_6445"
+    }, 
+    "QuarkNet_6447": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6447, 
+        "longitude": -84.349333, 
+        "label": "Summit Country Day School,Summit Country Day School", 
+        "latitude": 39.069045, 
+        "name": "QuarkNet_6447"
+    }, 
+    "QuarkNet_6446": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6446, 
+        "longitude": -104.209902, 
+        "label": "Newcastle High School,Newcastle High School", 
+        "latitude": 43.850935, 
+        "name": "QuarkNet_6446"
+    }, 
+    "QuarkNet_6526": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6526, 
+        "longitude": -80.371667, 
+        "label": "Doral Senior High School,Doral", 
+        "latitude": 25.8525, 
+        "name": "QuarkNet_6526"
+    }, 
+    "QuarkNet_6522": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6522, 
+        "longitude": 13.632983, 
+        "label": "RV Polarstern,Bremerhaven", 
+        "latitude": 52.34565, 
+        "name": "QuarkNet_6522"
+    }, 
+    "QuarkNet_56": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 56, 
+        "longitude": -87.893167, 
+        "label": "Walter Payton College Prep,Chicago", 
+        "latitude": 41.022333, 
+        "name": "QuarkNet_56"
+    }, 
+    "QuarkNet_57": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 57, 
+        "longitude": -88.220315, 
+        "label": "PatsLab Fermilab,Batavia", 
+        "latitude": 41.846217, 
+        "name": "QuarkNet_57"
+    }, 
+    "QuarkNet_54": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 54, 
+        "longitude": -122.30953, 
+        "label": "University of Washington,Seattle", 
+        "latitude": 47.654025, 
+        "name": "QuarkNet_54"
+    }, 
+    "QuarkNet_52": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 52, 
+        "longitude": -87.648202, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870533, 
+        "name": "QuarkNet_52"
+    }, 
+    "QuarkNet_53": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 53, 
+        "longitude": -87.648208, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870537, 
+        "name": "QuarkNet_53"
+    }, 
+    "QuarkNet_58": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 58, 
+        "longitude": -87.648202, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870527, 
+        "name": "QuarkNet_58"
+    }, 
+    "QuarkNet_59": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 59, 
+        "longitude": -87.737448, 
+        "label": "Rich South HS,RICHTON PARK", 
+        "latitude": 41.48541, 
+        "name": "QuarkNet_59"
+    }, 
+    "QuarkNet_6981": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6981, 
+        "longitude": 140.892098, 
+        "label": "Sendai1,Sendai1", 
+        "latitude": 38.250312, 
+        "name": "QuarkNet_6981"
+    }, 
+    "QuarkNet_6989": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6989, 
+        "longitude": 13.632983, 
+        "label": "DESY,DESY", 
+        "latitude": 52.34565, 
+        "name": "QuarkNet_6989"
+    }, 
+    "QuarkNet_143": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 143, 
+        "longitude": -122.0276, 
+        "label": "Issaquah High School,Issaquah", 
+        "latitude": 47.5234, 
+        "name": "QuarkNet_143"
+    }, 
+    "QuarkNet_142": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 142, 
+        "longitude": -122.319833, 
+        "label": "Federal Way Public Academy,Federal Way", 
+        "latitude": 47.288043, 
+        "name": "QuarkNet_142"
+    }, 
+    "QuarkNet_141": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 141, 
+        "longitude": -122.287423, 
+        "label": "DeVry University,Federal Way", 
+        "latitude": 47.294225, 
+        "name": "QuarkNet_141"
+    }, 
+    "QuarkNet_140": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 140, 
+        "longitude": -80.624023, 
+        "label": "Melbourne High School,Melbourne", 
+        "latitude": 28.062357, 
+        "name": "QuarkNet_140"
+    }, 
+    "QuarkNet_146": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 146, 
+        "longitude": -122.311333, 
+        "label": "Garfield High School,Seattle", 
+        "latitude": 47.653912, 
+        "name": "QuarkNet_146"
+    }, 
+    "QuarkNet_144": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 144, 
+        "longitude": -80.624028, 
+        "label": "Melbourne High School,Melbourne", 
+        "latitude": 28.06235, 
+        "name": "QuarkNet_144"
+    }, 
+    "QuarkNet_149": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 149, 
+        "longitude": -122.310932, 
+        "label": "University of Washington,Seattle", 
+        "latitude": 47.653688, 
+        "name": "QuarkNet_149"
+    }, 
+    "QuarkNet_6180": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6180, 
+        "longitude": -97.413677, 
+        "label": "Boswell HS,FORT WORTH", 
+        "latitude": 32.8815, 
+        "name": "QuarkNet_6180"
+    }, 
+    "QuarkNet_6181": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6181, 
+        "longitude": -86.802233, 
+        "label": "Vanderbilt University,Nashville", 
+        "latitude": 36.143707, 
+        "name": "QuarkNet_6181"
+    }, 
+    "QuarkNet_6182": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6182, 
+        "longitude": -92.619, 
+        "label": "University of Wisconsin - River Falls,South Pole - IceCube", 
+        "latitude": 44.853, 
+        "name": "QuarkNet_6182"
+    }, 
+    "QuarkNet_6183": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6183, 
+        "longitude": 120.364768, 
+        "label": "National Cheng Kung University NCKU,National Cheng Kung University NCKU", 
+        "latitude": 23.66148, 
+        "name": "QuarkNet_6183"
+    }, 
+    "QuarkNet_6184": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6184, 
+        "longitude": -87.786, 
+        "label": "Thornton Township High School,Harvey", 
+        "latitude": 42.0685, 
+        "name": "QuarkNet_6184"
+    }, 
+    "QuarkNet_6185": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6185, 
+        "longitude": -87.9065, 
+        "label": "University of Alabama,Tuscaloosa", 
+        "latitude": 33.349557, 
+        "name": "QuarkNet_6185"
+    }, 
+    "QuarkNet_6187": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6187, 
+        "longitude": -86.802135, 
+        "label": "Vanderbilt University,Vanderbilt University", 
+        "latitude": 36.143827, 
+        "name": "QuarkNet_6187"
+    }, 
+    "QuarkNet_6334": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6334, 
+        "longitude": -91.53195, 
+        "label": "Bettendorf High School,Bettendorf", 
+        "latitude": 41.66168, 
+        "name": "QuarkNet_6334"
+    }, 
+    "QuarkNet_6841": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6841, 
+        "longitude": -76.623128, 
+        "label": "Liberty High School,Eldersburg", 
+        "latitude": 39.33145, 
+        "name": "QuarkNet_6841"
+    }, 
+    "QuarkNet_6117": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6117, 
+        "longitude": -86.231545, 
+        "label": "Lakeshore High School,Lakeshore High School", 
+        "latitude": 41.700772, 
+        "name": "QuarkNet_6117"
+    }, 
+    "QuarkNet_6116": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6116, 
+        "longitude": -97.6625, 
+        "label": "MidWest City HIgh School,MidWest City", 
+        "latitude": 35.757833, 
+        "name": "QuarkNet_6116"
+    }, 
+    "QuarkNet_6115": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6115, 
+        "longitude": -96.0178, 
+        "label": "West Harrison CSD,Mondamin", 
+        "latitude": 41.709233, 
+        "name": "QuarkNet_6115"
+    }, 
+    "QuarkNet_6114": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6114, 
+        "longitude": -98.198402, 
+        "label": "Lyons High School,Lyons High School", 
+        "latitude": 38.333643, 
+        "name": "QuarkNet_6114"
+    }, 
+    "QuarkNet_6113": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6113, 
+        "longitude": -86.047, 
+        "label": "Purdue University,West Lafayette", 
+        "latitude": 39.934108, 
+        "name": "QuarkNet_6113"
+    }, 
+    "QuarkNet_6842": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6842, 
+        "longitude": -77.028167, 
+        "label": "Northern High School ,Dillsburg", 
+        "latitude": 40.096422, 
+        "name": "QuarkNet_6842"
+    }, 
+    "QuarkNet_6119": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6119, 
+        "longitude": -88.263534, 
+        "label": "Fermilab Test Array,Fermilab Test Array", 
+        "latitude": 41.839137, 
+        "name": "QuarkNet_6119"
+    }, 
+    "QuarkNet_6118": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6118, 
+        "longitude": -88.261929, 
+        "label": "Fermilab Test Array,Batavia", 
+        "latitude": 41.838433, 
+        "name": "QuarkNet_6118"
+    }, 
+    "QuarkNet_2": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 2, 
+        "longitude": -88.416667, 
+        "label": "Glenbrook South High School,Glenview", 
+        "latitude": 42.15, 
+        "name": "QuarkNet_2"
+    }, 
+    "QuarkNet_7": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 7, 
+        "longitude": -80.623797, 
+        "label": "Florida Institute of Technology,Melbourne", 
+        "latitude": 28.062348, 
+        "name": "QuarkNet_7"
+    }, 
+    "QuarkNet_9": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 9, 
+        "longitude": -80.623985, 
+        "label": "Palm Bay High,Melbourne", 
+        "latitude": 28.062333, 
+        "name": "QuarkNet_9"
+    }, 
+    "QuarkNet_6801": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6801, 
+        "longitude": -100.622457, 
+        "label": "Mission,Madison", 
+        "latitude": 43.297887, 
+        "name": "QuarkNet_6801"
+    }, 
+    "QuarkNet_6800": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6800, 
+        "longitude": -87.853667, 
+        "label": "Chicagoland Jewish High School,Deerfield", 
+        "latitude": 42.151133, 
+        "name": "QuarkNet_6800"
+    }, 
+    "QuarkNet_6749": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6749, 
+        "longitude": -122.311509, 
+        "label": "University of Washington,University of Washington", 
+        "latitude": 47.654123, 
+        "name": "QuarkNet_6749"
+    }, 
+    "QuarkNet_6807": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6807, 
+        "longitude": 139.6787, 
+        "label": "Tokyo Gakugei University Senior High School,Tokyo Gakugei University Senior High School", 
+        "latitude": 35.634147, 
+        "name": "QuarkNet_6807"
+    }, 
+    "QuarkNet_6808": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6808, 
+        "longitude": -122.148632, 
+        "label": "Bellevue College,Bellevue College", 
+        "latitude": 47.585223, 
+        "name": "QuarkNet_6808"
+    }, 
+    "QuarkNet_6483": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6483, 
+        "longitude": -112.409452, 
+        "label": "Century High School,Pocatello", 
+        "latitude": 42.868436, 
+        "name": "QuarkNet_6483"
+    }, 
+    "QuarkNet_6488": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6488, 
+        "longitude": -96.647075, 
+        "label": "Garland High School,Garland High School", 
+        "latitude": 32.909495, 
+        "name": "QuarkNet_6488"
+    }, 
+    "QuarkNet_6641": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6641, 
+        "longitude": -76.748333, 
+        "label": "University of the West Indies,Kingston", 
+        "latitude": 18.005, 
+        "name": "QuarkNet_6641"
+    }, 
+    "QuarkNet_9999": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 9999, 
+        "longitude": -86.236818, 
+        "label": "John Adams,south bend", 
+        "latitude": 41.68839, 
+        "name": "QuarkNet_9999"
+    }, 
+    "QuarkNet_6249": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6249, 
+        "longitude": 121.546133, 
+        "label": "Soochow University,Taipei", 
+        "latitude": 25.093317, 
+        "name": "QuarkNet_6249"
+    }, 
+    "QuarkNet_6246": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6246, 
+        "longitude": -91.532013, 
+        "label": "Bettendorf High School,Bettendorf", 
+        "latitude": 41.661727, 
+        "name": "QuarkNet_6246"
+    }, 
+    "QuarkNet_6245": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6245, 
+        "longitude": -71.231771, 
+        "label": "Needham High School,Needham", 
+        "latitude": 42.286014, 
+        "name": "QuarkNet_6245"
+    }, 
+    "QuarkNet_6244": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6244, 
+        "longitude": -117.842945, 
+        "label": "Segerstrom Fundamental High School,Santa Ana", 
+        "latitude": 33.643878, 
+        "name": "QuarkNet_6244"
+    }, 
+    "QuarkNet_6243": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6243, 
+        "longitude": 21.006333, 
+        "label": "University of Warsaw,Warszawa", 
+        "latitude": 52.223523, 
+        "name": "QuarkNet_6243"
+    }, 
+    "QuarkNet_6242": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6242, 
+        "longitude": -78.857167, 
+        "label": "Nichols School,Nichols School", 
+        "latitude": 42.942333, 
+        "name": "QuarkNet_6242"
+    }, 
+    "QuarkNet_6241": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6241, 
+        "longitude": -78.857667, 
+        "label": "Nichols School,Buffalo", 
+        "latitude": 42.942452, 
+        "name": "QuarkNet_6241"
+    }, 
+    "QuarkNet_6240": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6240, 
+        "longitude": 9.866667, 
+        "label": "DESY,Hamburg", 
+        "latitude": 53.566667, 
+        "name": "QuarkNet_6240"
+    }, 
+    "QuarkNet_182": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 182, 
+        "longitude": 87.891965, 
+        "label": "CHSDTwoOneEight,Oak Lawn", 
+        "latitude": 41.638225, 
+        "name": "QuarkNet_182"
+    }, 
+    "QuarkNet_6419": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6419, 
+        "longitude": -117.324987, 
+        "label": "Poly High School,Riverside", 
+        "latitude": 33.974372, 
+        "name": "QuarkNet_6419"
+    }, 
+    "QuarkNet_6416": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6416, 
+        "longitude": -122.150833, 
+        "label": "Castilleja School,Palo Alto", 
+        "latitude": 36.4385, 
+        "name": "QuarkNet_6416"
+    }, 
+    "QuarkNet_6417": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6417, 
+        "longitude": -87.642667, 
+        "label": "Thornton Township High School,Harvey", 
+        "latitude": 41.615938, 
+        "name": "QuarkNet_6417"
+    }, 
+    "QuarkNet_6410": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6410, 
+        "longitude": -88.326648, 
+        "label": "Fermilab,Batavia", 
+        "latitude": 41.889441, 
+        "name": "QuarkNet_6410"
+    }, 
+    "QuarkNet_6411": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6411, 
+        "longitude": -1.929667, 
+        "label": "Univ of Birmingham,Birmingham", 
+        "latitude": 52.450283, 
+        "name": "QuarkNet_6411"
+    }, 
+    "QuarkNet_69": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 69, 
+        "longitude": -122.372883, 
+        "label": "Roosevelt High School,Seattle", 
+        "latitude": 47.677517, 
+        "name": "QuarkNet_69"
+    }, 
+    "QuarkNet_68": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 68, 
+        "longitude": -122.009468, 
+        "label": "Redmond High School,Redmond", 
+        "latitude": 47.843785, 
+        "name": "QuarkNet_68"
+    }, 
+    "QuarkNet_67": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 67, 
+        "longitude": -122.11785, 
+        "label": "Liberty High School,Renton", 
+        "latitude": 47.48008, 
+        "name": "QuarkNet_67"
+    }, 
+    "QuarkNet_66": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 66, 
+        "longitude": -122.198833, 
+        "label": "Juanita High School,Kirkland", 
+        "latitude": 47.715327, 
+        "name": "QuarkNet_66"
+    }, 
+    "QuarkNet_63": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 63, 
+        "longitude": -84.349472, 
+        "label": "Anderson High School,Cincinatti", 
+        "latitude": 39.069042, 
+        "name": "QuarkNet_63"
+    }, 
+    "QuarkNet_60": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 60, 
+        "longitude": -88.222518, 
+        "label": "Proviso West,Hillside", 
+        "latitude": 41.841818, 
+        "name": "QuarkNet_60"
+    }, 
+    "QuarkNet_138": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 138, 
+        "longitude": -87.974485, 
+        "label": "Fermilab Test Array,Batavia", 
+        "latitude": 41.706882, 
+        "name": "QuarkNet_138"
+    }, 
+    "QuarkNet_139": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 139, 
+        "longitude": -86.236797, 
+        "label": "ND QN Center,notre dame", 
+        "latitude": 41.68829, 
+        "name": "QuarkNet_139"
+    }, 
+    "QuarkNet_6948": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6948, 
+        "longitude": -157.855003, 
+        "label": "Kamehameha High School,Kamehameha High School", 
+        "latitude": 21.341492, 
+        "name": "QuarkNet_6948"
+    }, 
+    "QuarkNet_131": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 131, 
+        "longitude": -97.083333, 
+        "label": "Putnam City North High School,Oklahoma City", 
+        "latitude": 36.183333, 
+        "name": "QuarkNet_131"
+    }, 
+    "QuarkNet_134": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 134, 
+        "longitude": -97.114497, 
+        "label": "NORTHSIDE HS,FORT WORTH", 
+        "latitude": 32.730545, 
+        "name": "QuarkNet_134"
+    }, 
+    "QuarkNet_6236": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6236, 
+        "longitude": -88.765833, 
+        "label": "Northern Illinois University,DeKalb ", 
+        "latitude": 41.932667, 
+        "name": "QuarkNet_6236"
+    }, 
+    "QuarkNet_6920": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6920, 
+        "longitude": -122.311509, 
+        "label": "University of Washington,Seattle", 
+        "latitude": 47.654123, 
+        "name": "QuarkNet_6920"
+    }, 
+    "QuarkNet_6148": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6148, 
+        "longitude": -88.262054, 
+        "label": "Fermilab Test Array,Fermilab Test Array", 
+        "latitude": 41.838721, 
+        "name": "QuarkNet_6148"
+    }, 
+    "QuarkNet_6145": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6145, 
+        "longitude": -93.417405, 
+        "label": "Armstrong High School,Armstrong High School", 
+        "latitude": 45.020611, 
+        "name": "QuarkNet_6145"
+    }, 
+    "QuarkNet_6147": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6147, 
+        "longitude": -122.0, 
+        "label": "University of Wisconsin-River Falls,River Falls", 
+        "latitude": 37.62, 
+        "name": "QuarkNet_6147"
+    }, 
+    "QuarkNet_6140": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6140, 
+        "longitude": -74.465, 
+        "label": "Marine Academy of Science and Technology,Sandy Hook", 
+        "latitude": 40.522893, 
+        "name": "QuarkNet_6140"
+    }, 
+    "QuarkNet_6141": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6141, 
+        "longitude": -122.311333, 
+        "label": "Booker T Washington High School,Tulsa", 
+        "latitude": 47.653912, 
+        "name": "QuarkNet_6141"
+    }, 
+    "QuarkNet_6142": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6142, 
+        "longitude": -88.222518, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.841818, 
+        "name": "QuarkNet_6142"
+    }, 
+    "QuarkNet_6214": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6214, 
+        "longitude": -88.222518, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.841818, 
+        "name": "QuarkNet_6214"
+    }, 
+    "QuarkNet_6215": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6215, 
+        "longitude": -96.782991, 
+        "label": "Technology Excellence Center,Mesquite", 
+        "latitude": 32.846552, 
+        "name": "QuarkNet_6215"
+    }, 
+    "QuarkNet_6217": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6217, 
+        "longitude": -86.236333, 
+        "label": "Sterling High School,Sterling", 
+        "latitude": 41.688333, 
+        "name": "QuarkNet_6217"
+    }, 
+    "QuarkNet_6211": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6211, 
+        "longitude": -76.266667, 
+        "label": "Norfolk Christian High School,Norfolk", 
+        "latitude": 36.904457, 
+        "name": "QuarkNet_6211"
+    }, 
+    "QuarkNet_6609": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6609, 
+        "longitude": 73.825668, 
+        "label": "IUCAA Pune University Campus,IUCAA Pune University Campus", 
+        "latitude": 18.559792, 
+        "name": "QuarkNet_6609"
+    }, 
+    "QuarkNet_6608": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6608, 
+        "longitude": -96.783165, 
+        "label": "Garland High School,Garland", 
+        "latitude": 32.846443, 
+        "name": "QuarkNet_6608"
+    }, 
+    "QuarkNet_6607": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6607, 
+        "longitude": -80.63639, 
+        "label": "Space Coast JrSr High,Space Coast JrSr High", 
+        "latitude": 28.067645, 
+        "name": "QuarkNet_6607"
+    }, 
+    "QuarkNet_6606": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6606, 
+        "longitude": -112.426148, 
+        "label": "Highland High School,Pocatello", 
+        "latitude": 42.907782, 
+        "name": "QuarkNet_6606"
+    }, 
+    "QuarkNet_6603": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6603, 
+        "longitude": -122.308, 
+        "label": "Palm Bay High,Palm Bay High", 
+        "latitude": 47.655, 
+        "name": "QuarkNet_6603"
+    }, 
+    "QuarkNet_6602": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6602, 
+        "longitude": -76.623148, 
+        "label": "Rosa Parks Middle School,olney", 
+        "latitude": 39.33134, 
+        "name": "QuarkNet_6602"
+    }, 
+    "QuarkNet_6601": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6601, 
+        "longitude": -76.625333, 
+        "label": "Catonsville High School,Catonsville", 
+        "latitude": 39.328447, 
+        "name": "QuarkNet_6601"
+    }, 
+    "QuarkNet_6600": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6600, 
+        "longitude": -83.069392, 
+        "label": "Michigan Collegiate High School,Warren", 
+        "latitude": 42.353738, 
+        "name": "QuarkNet_6600"
+    }, 
+    "QuarkNet_4345": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 4345, 
+        "longitude": -117.381167, 
+        "label": "Lakeside High School,Lake Elsinore", 
+        "latitude": 33.669648, 
+        "name": "QuarkNet_4345"
+    }, 
+    "QuarkNet_5045": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5045, 
+        "longitude": -67.145667, 
+        "label": "University of Puerto Rico,Mayaduez", 
+        "latitude": 18.189893, 
+        "name": "QuarkNet_5045"
+    }, 
+    "QuarkNet_5047": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5047, 
+        "longitude": -91.531973, 
+        "label": "Bettendorf High School,Bettendorf", 
+        "latitude": 41.661688, 
+        "name": "QuarkNet_5047"
+    }, 
+    "QuarkNet_5041": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5041, 
+        "longitude": -92.616667, 
+        "label": "University of Wisconsin - River Falls,South Pole - IceCube", 
+        "latitude": 44.883333, 
+        "name": "QuarkNet_5041"
+    }, 
+    "QuarkNet_5042": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5042, 
+        "longitude": -92.619687, 
+        "label": "University of Wisconsin-River Falls,River Falls", 
+        "latitude": 44.852913, 
+        "name": "QuarkNet_5042"
+    }, 
+    "QuarkNet_5043": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5043, 
+        "longitude": -80.37491, 
+        "label": "Florida International University,Miami", 
+        "latitude": 25.757497, 
+        "name": "QuarkNet_5043"
+    }, 
+    "QuarkNet_6320": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6320, 
+        "longitude": -93.068053, 
+        "label": "Johnson Senior High School,St. Paul", 
+        "latitude": 44.980898, 
+        "name": "QuarkNet_6320"
+    }, 
+    "QuarkNet_6324": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6324, 
+        "longitude": -93.294, 
+        "label": "Blake High School,Blake High School", 
+        "latitude": 44.968927, 
+        "name": "QuarkNet_6324"
+    }, 
+    "QuarkNet_5049": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5049, 
+        "longitude": -157.925945, 
+        "label": "BYU - Hawaii,Laie", 
+        "latitude": 21.641105, 
+        "name": "QuarkNet_5049"
+    }, 
+    "QuarkNet_6326": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6326, 
+        "longitude": -101.877167, 
+        "label": "Lubbock Christian High School,Lubbock", 
+        "latitude": 33.585, 
+        "name": "QuarkNet_6326"
+    }, 
+    "QuarkNet_6327": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6327, 
+        "longitude": -121.987122, 
+        "label": "Independence High School,San Jose", 
+        "latitude": 37.035398, 
+        "name": "QuarkNet_6327"
+    }, 
+    "QuarkNet_38": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 38, 
+        "longitude": -71.089455, 
+        "label": "Fermilab,Batavia", 
+        "latitude": 42.338152, 
+        "name": "QuarkNet_38"
+    }, 
+    "QuarkNet_39": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 39, 
+        "longitude": -87.648202, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870532, 
+        "name": "QuarkNet_39"
+    }, 
+    "QuarkNet_6450": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6450, 
+        "longitude": -87.628633, 
+        "label": "Young Womens Leadership Charter School,Chicago", 
+        "latitude": 41.839918, 
+        "name": "QuarkNet_6450"
+    }, 
+    "QuarkNet_6518": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6518, 
+        "longitude": 6.054598, 
+        "label": "RV Polarstern,Bremerhaven", 
+        "latitude": 46.232118, 
+        "name": "QuarkNet_6518"
+    }, 
+    "QuarkNet_6455": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6455, 
+        "longitude": 11.0315, 
+        "label": "University of Erlangen-Nuremberg,Erlangen", 
+        "latitude": 49.58509, 
+        "name": "QuarkNet_6455"
+    }, 
+    "QuarkNet_6459": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6459, 
+        "longitude": 11.03, 
+        "label": "University of Erlangen-Nuremberg,Erlangen", 
+        "latitude": 49.58, 
+        "name": "QuarkNet_6459"
+    }, 
+    "QuarkNet_6516": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6516, 
+        "longitude": -74.144167, 
+        "label": "Saranac Lake High School,Saranac Lake High School", 
+        "latitude": 44.328167, 
+        "name": "QuarkNet_6516"
+    }, 
+    "QuarkNet_6610": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6610, 
+        "longitude": 73.825668, 
+        "label": "IUCAA Pune University Campus,Pune", 
+        "latitude": 18.559792, 
+        "name": "QuarkNet_6610"
+    }, 
+    "QuarkNet_6612": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6612, 
+        "longitude": -93.379484, 
+        "label": "Prior Lake High School,Prior Lake High School", 
+        "latitude": 44.72797, 
+        "name": "QuarkNet_6612"
+    }, 
+    "QuarkNet_6614": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6614, 
+        "longitude": -77.862873, 
+        "label": "Pennsylvania State University,University Park", 
+        "latitude": 40.798055, 
+        "name": "QuarkNet_6614"
+    }, 
+    "QuarkNet_179": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 179, 
+        "longitude": -87.718583, 
+        "label": "Hubbard High School,Chicago", 
+        "latitude": 41.779878, 
+        "name": "QuarkNet_179"
+    }, 
+    "QuarkNet_174": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 174, 
+        "longitude": -87.64832, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870535, 
+        "name": "QuarkNet_174"
+    }, 
+    "QuarkNet_175": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 175, 
+        "longitude": -77.14664, 
+        "label": "Richard Montgomery High School,Rockville", 
+        "latitude": 39.0792, 
+        "name": "QuarkNet_175"
+    }, 
+    "QuarkNet_6175": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6175, 
+        "longitude": -92.618833, 
+        "label": "University of Wisconsin Madison,Madison", 
+        "latitude": 44.852953, 
+        "name": "QuarkNet_6175"
+    }, 
+    "QuarkNet_6174": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6174, 
+        "longitude": -92.618333, 
+        "label": "University of Wisconsin-River Falls,River Falls", 
+        "latitude": 44.865, 
+        "name": "QuarkNet_6174"
+    }, 
+    "QuarkNet_6177": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6177, 
+        "longitude": -86.231545, 
+        "label": "Marian High School,Mishawaka", 
+        "latitude": 41.700772, 
+        "name": "QuarkNet_6177"
+    }, 
+    "QuarkNet_6176": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6176, 
+        "longitude": -84.26265, 
+        "label": "Rickards High School,Tallahassee", 
+        "latitude": 30.408123, 
+        "name": "QuarkNet_6176"
+    }, 
+    "QuarkNet_6171": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6171, 
+        "longitude": -86.595854, 
+        "label": "Winamac Community High School,Winamac Community High School", 
+        "latitude": 41.046179, 
+        "name": "QuarkNet_6171"
+    }, 
+    "QuarkNet_6172": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6172, 
+        "longitude": -77.236968, 
+        "label": "South County Secondary School,Lorton", 
+        "latitude": 38.717135, 
+        "name": "QuarkNet_6172"
+    }, 
+    "QuarkNet_6179": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6179, 
+        "longitude": -92.618333, 
+        "label": "University of Wisconsin-River Falls,River Falls", 
+        "latitude": 44.865, 
+        "name": "QuarkNet_6179"
+    }, 
+    "QuarkNet_6178": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6178, 
+        "longitude": -77.019628, 
+        "label": "Oakton High School,Vienna", 
+        "latitude": 38.887853, 
+        "name": "QuarkNet_6178"
+    }, 
+    "QuarkNet_5096": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5096, 
+        "longitude": -89.5369, 
+        "label": "Oxford High School,Oxford", 
+        "latitude": 34.364317, 
+        "name": "QuarkNet_5096"
+    }, 
+    "QuarkNet_5092": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5092, 
+        "longitude": -88.326593, 
+        "label": "Geneva High School,Geneva", 
+        "latitude": 41.889342, 
+        "name": "QuarkNet_5092"
+    }, 
+    "QuarkNet_5099": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5099, 
+        "longitude": -87.830267, 
+        "label": "Glenbrook North High School,Northbrook", 
+        "latitude": 42.111583, 
+        "name": "QuarkNet_5099"
+    }, 
+    "QuarkNet_5098": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5098, 
+        "longitude": -88.083333, 
+        "label": "Adler Planetarium,Chicago", 
+        "latitude": 42.5, 
+        "name": "QuarkNet_5098"
+    }, 
+    "QuarkNet_6100": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6100, 
+        "longitude": -157.815333, 
+        "label": "UH Windward,UH Windward", 
+        "latitude": 21.410138, 
+        "name": "QuarkNet_6100"
+    }, 
+    "QuarkNet_6101": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6101, 
+        "longitude": -97.437733, 
+        "label": "Bishop McGuinness High School,Oklahoma City", 
+        "latitude": 35.077362, 
+        "name": "QuarkNet_6101"
+    }, 
+    "QuarkNet_6102": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6102, 
+        "longitude": -72.867185, 
+        "label": "Shoreham-Wading River High School,Shoreham", 
+        "latitude": 40.94247, 
+        "name": "QuarkNet_6102"
+    }, 
+    "QuarkNet_6311": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6311, 
+        "longitude": 103.804891, 
+        "label": "Hwa Chong Institution,Singapore", 
+        "latitude": 1.325119, 
+        "name": "QuarkNet_6311"
+    }, 
+    "QuarkNet_6310": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6310, 
+        "longitude": -99.263333, 
+        "label": "Universidad Iberoamericana,Universidad Iberoamericana", 
+        "latitude": 19.365667, 
+        "name": "QuarkNet_6310"
+    }, 
+    "QuarkNet_6314": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6314, 
+        "longitude": -122.0605, 
+        "label": "Independence High School,San Jose", 
+        "latitude": 36.998508, 
+        "name": "QuarkNet_6314"
+    }, 
+    "QuarkNet_6317": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6317, 
+        "longitude": -91.521457, 
+        "label": "Bettendorf High School,Bettendorf", 
+        "latitude": 41.669258, 
+        "name": "QuarkNet_6317"
+    }, 
+    "QuarkNet_6318": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6318, 
+        "longitude": -74.463333, 
+        "label": "North Arlington High School,North Arlington", 
+        "latitude": 40.518967, 
+        "name": "QuarkNet_6318"
+    }, 
+    "QuarkNet_6777": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6777, 
+        "longitude": -80.624059, 
+        "label": "Palm Bay High,Palm Bay High", 
+        "latitude": 28.062393, 
+        "name": "QuarkNet_6777"
+    }, 
+    "QuarkNet_6776": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6776, 
+        "longitude": -105.0805, 
+        "label": "Loveland High School,Loveland", 
+        "latitude": 40.60568, 
+        "name": "QuarkNet_6776"
+    }, 
+    "QuarkNet_6775": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6775, 
+        "longitude": -105.0805, 
+        "label": "Loveland High School,Loveland", 
+        "latitude": 40.60568, 
+        "name": "QuarkNet_6775"
+    }, 
+    "QuarkNet_6774": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6774, 
+        "longitude": 128.612255, 
+        "label": "Taegu Science High School,Daegu", 
+        "latitude": 35.89233, 
+        "name": "QuarkNet_6774"
+    }, 
+    "QuarkNet_6773": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6773, 
+        "longitude": -157.925968, 
+        "label": "BYU - Hawaii,BYU - Hawaii", 
+        "latitude": 21.64113, 
+        "name": "QuarkNet_6773"
+    }, 
+    "QuarkNet_6772": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6772, 
+        "longitude": -87.786, 
+        "label": "Glenbrook South High School,Glenview", 
+        "latitude": 42.0685, 
+        "name": "QuarkNet_6772"
+    }, 
+    "QuarkNet_6771": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6771, 
+        "longitude": -76.135172, 
+        "label": "Syracuse University,Syracuse", 
+        "latitude": 43.036933, 
+        "name": "QuarkNet_6771"
+    }, 
+    "QuarkNet_6770": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6770, 
+        "longitude": -76.135384, 
+        "label": "Fayetteville-Manlius High School,Manlius", 
+        "latitude": 43.036929, 
+        "name": "QuarkNet_6770"
+    }, 
+    "QuarkNet_6818": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6818, 
+        "longitude": -87.830382, 
+        "label": "Glenbrook North High School,Glenbrook North High School", 
+        "latitude": 42.111596, 
+        "name": "QuarkNet_6818"
+    }, 
+    "QuarkNet_6846": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6846, 
+        "longitude": -88.249, 
+        "label": "Universidad Iberoamericana,Mexico City", 
+        "latitude": 41.8405, 
+        "name": "QuarkNet_6846"
+    }, 
+    "QuarkNet_6955": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6955, 
+        "longitude": -122.292819, 
+        "label": "Nathan Hale High School,Nathan Hale High School", 
+        "latitude": 47.707057, 
+        "name": "QuarkNet_6955"
+    }, 
+    "QuarkNet_6778": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6778, 
+        "longitude": -71.155817, 
+        "label": "The Wheeler School,Providence", 
+        "latitude": 42.27547, 
+        "name": "QuarkNet_6778"
+    }, 
+    "QuarkNet_6496": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6496, 
+        "longitude": 13.632983, 
+        "label": "RV Polarstern,Bremerhaven", 
+        "latitude": 52.34565, 
+        "name": "QuarkNet_6496"
+    }, 
+    "QuarkNet_6228": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6228, 
+        "longitude": -84.349333, 
+        "label": "Fairfield High School,Cincinnati", 
+        "latitude": 39.069045, 
+        "name": "QuarkNet_6228"
+    }, 
+    "QuarkNet_6225": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6225, 
+        "longitude": -116.620167, 
+        "label": "San Jacinto High School,San Jacinto", 
+        "latitude": 33.599, 
+        "name": "QuarkNet_6225"
+    }, 
+    "QuarkNet_6224": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6224, 
+        "longitude": -112.426148, 
+        "label": "Highland High School,Pocatello", 
+        "latitude": 42.907782, 
+        "name": "QuarkNet_6224"
+    }, 
+    "QuarkNet_6227": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6227, 
+        "longitude": 121.431667, 
+        "label": "Fu Jen Catholic University FJU,Taipei County", 
+        "latitude": 25.0335, 
+        "name": "QuarkNet_6227"
+    }, 
+    "QuarkNet_6226": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6226, 
+        "longitude": 121.551758, 
+        "label": "Fu Jen Catholic University FJU,Fu Jen Catholic University FJU", 
+        "latitude": 25.055208, 
+        "name": "QuarkNet_6226"
+    }, 
+    "QuarkNet_6221": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6221, 
+        "longitude": -112.434667, 
+        "label": "Council High School,Council", 
+        "latitude": 42.863373, 
+        "name": "QuarkNet_6221"
+    }, 
+    "QuarkNet_6498": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6498, 
+        "longitude": 10.025074, 
+        "label": "Klosterschule,Klosterschule", 
+        "latitude": 53.555559, 
+        "name": "QuarkNet_6498"
+    }, 
+    "QuarkNet_6222": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6222, 
+        "longitude": -43.17374, 
+        "label": "CBPF,Rio de Janeiro", 
+        "latitude": -22.95385, 
+        "name": "QuarkNet_6222"
+    }, 
+    "QuarkNet_6654": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6654, 
+        "longitude": 121.586, 
+        "label": "Concordia International School Shanghai,Concordia International School Shanghai", 
+        "latitude": 31.241167, 
+        "name": "QuarkNet_6654"
+    }, 
+    "QuarkNet_6655": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6655, 
+        "longitude": -77.146433, 
+        "label": "Damascus High School,Damascus", 
+        "latitude": 39.080367, 
+        "name": "QuarkNet_6655"
+    }, 
+    "QuarkNet_6657": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6657, 
+        "longitude": -116.9175, 
+        "label": "Fruitland High School,Fruitland", 
+        "latitude": 44.005573, 
+        "name": "QuarkNet_6657"
+    }, 
+    "QuarkNet_6799": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6799, 
+        "longitude": -96.45, 
+        "label": "Macarthur High School,Irving", 
+        "latitude": 32.846667, 
+        "name": "QuarkNet_6799"
+    }, 
+    "QuarkNet_6798": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6798, 
+        "longitude": -96.582664, 
+        "label": "Cowley College,Arkansas City", 
+        "latitude": 39.192721, 
+        "name": "QuarkNet_6798"
+    }, 
+    "QuarkNet_6653": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6653, 
+        "longitude": -87.615654, 
+        "label": "Chicago State University,Chicago", 
+        "latitude": 41.694129, 
+        "name": "QuarkNet_6653"
+    }, 
+    "QuarkNet_6795": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6795, 
+        "longitude": -86.802781, 
+        "label": "Blackman High School,Murfreesboro", 
+        "latitude": 36.144582, 
+        "name": "QuarkNet_6795"
+    }, 
+    "QuarkNet_6794": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6794, 
+        "longitude": 116.325548, 
+        "label": "KITPC,Beijing", 
+        "latitude": 39.981215, 
+        "name": "QuarkNet_6794"
+    }, 
+    "QuarkNet_6793": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6793, 
+        "longitude": -95.278629, 
+        "label": "Ottawa Sr. High School,Ottawa Sr. High School", 
+        "latitude": 38.600358, 
+        "name": "QuarkNet_6793"
+    }, 
+    "QuarkNet_6792": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6792, 
+        "longitude": 128.625283, 
+        "label": "Taegu Science High School,Daegu", 
+        "latitude": 35.844617, 
+        "name": "QuarkNet_6792"
+    }, 
+    "QuarkNet_6401": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6401, 
+        "longitude": -86.224227, 
+        "label": "John Adams,John Adams", 
+        "latitude": 41.666962, 
+        "name": "QuarkNet_6401"
+    }, 
+    "QuarkNet_5078": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5078, 
+        "longitude": -88.26151, 
+        "label": "Fermilab Test Array,Batavia", 
+        "latitude": 41.838145, 
+        "name": "QuarkNet_5078"
+    }, 
+    "QuarkNet_5076": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5076, 
+        "longitude": -85.82788, 
+        "label": "Lakeshore High School,Stevensville", 
+        "latitude": 41.545177, 
+        "name": "QuarkNet_5076"
+    }, 
+    "QuarkNet_5071": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5071, 
+        "longitude": -83.069167, 
+        "label": "Wayne State University,Detroit", 
+        "latitude": 42.354167, 
+        "name": "QuarkNet_5071"
+    }, 
+    "QuarkNet_5070": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5070, 
+        "longitude": -91.34394, 
+        "label": "Hamilton High School,Hamilton", 
+        "latitude": 40.396243, 
+        "name": "QuarkNet_5070"
+    }, 
+    "QuarkNet_5072": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5072, 
+        "longitude": -88.326593, 
+        "label": "Geneva High School,Geneva", 
+        "latitude": 41.889342, 
+        "name": "QuarkNet_5072"
+    }, 
+    "QuarkNet_6429": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6429, 
+        "longitude": -87.830728, 
+        "label": "Glenbrook North High School,Glenbrook North High School", 
+        "latitude": 42.111923, 
+        "name": "QuarkNet_6429"
+    }, 
+    "QuarkNet_6423": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6423, 
+        "longitude": 138.421685, 
+        "label": "Shizuoka Kita High School,Shizuoka Kita High School", 
+        "latitude": 35.027431, 
+        "name": "QuarkNet_6423"
+    }, 
+    "QuarkNet_6422": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6422, 
+        "longitude": -123.083702, 
+        "label": "West Salem High School,Salem", 
+        "latitude": 44.959818, 
+        "name": "QuarkNet_6422"
+    }, 
+    "QuarkNet_6421": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6421, 
+        "longitude": 13.632983, 
+        "label": "RV Polarstern,Bremerhaven", 
+        "latitude": 52.34565, 
+        "name": "QuarkNet_6421"
+    }, 
+    "QuarkNet_6420": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6420, 
+        "longitude": -84.349333, 
+        "label": "Anderson High School,Anderson High School", 
+        "latitude": 39.069045, 
+        "name": "QuarkNet_6420"
+    }, 
+    "QuarkNet_6787": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6787, 
+        "longitude": -122.150887, 
+        "label": "Castilleja School,Palo Alto", 
+        "latitude": 36.438568, 
+        "name": "QuarkNet_6787"
+    }, 
+    "QuarkNet_6865": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6865, 
+        "longitude": -71.124875, 
+        "label": "Medford High School,Medford High School", 
+        "latitude": 42.430307, 
+        "name": "QuarkNet_6865"
+    }, 
+    "QuarkNet_70": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 70, 
+        "longitude": -122.29477, 
+        "label": "Nathan Hale High School,Seattle", 
+        "latitude": 47.70785, 
+        "name": "QuarkNet_70"
+    }, 
+    "QuarkNet_122": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 122, 
+        "longitude": -87.830267, 
+        "label": "Glenbrook North High School,Northbrook", 
+        "latitude": 42.111583, 
+        "name": "QuarkNet_122"
+    }, 
+    "QuarkNet_6531": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6531, 
+        "longitude": 13.740667, 
+        "label": "TU Dresden IKTP,Dresden", 
+        "latitude": 51.029431, 
+        "name": "QuarkNet_6531"
+    }, 
+    "QuarkNet_6916": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6916, 
+        "longitude": -117.321833, 
+        "label": "Hoover High School,San Diego", 
+        "latitude": 33.971167, 
+        "name": "QuarkNet_6916"
+    }, 
+    "QuarkNet_6139": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6139, 
+        "longitude": -95.871158, 
+        "label": "Union Public Schools,Tulsa", 
+        "latitude": 36.06544, 
+        "name": "QuarkNet_6139"
+    }, 
+    "QuarkNet_6131": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6131, 
+        "longitude": -74.269167, 
+        "label": "Freehold High School,Freehold High School", 
+        "latitude": 40.268863, 
+        "name": "QuarkNet_6131"
+    }, 
+    "QuarkNet_6133": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6133, 
+        "longitude": -96.582663, 
+        "label": "Cheney High School,Cheney", 
+        "latitude": 39.192516, 
+        "name": "QuarkNet_6133"
+    }, 
+    "QuarkNet_6135": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6135, 
+        "longitude": -74.465143, 
+        "label": "North Arlington High School,North Arlington", 
+        "latitude": 40.522883, 
+        "name": "QuarkNet_6135"
+    }, 
+    "QuarkNet_6134": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6134, 
+        "longitude": -97.504667, 
+        "label": "OSSM,Oklahoma City", 
+        "latitude": 35.481572, 
+        "name": "QuarkNet_6134"
+    }, 
+    "QuarkNet_6137": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6137, 
+        "longitude": -74.463217, 
+        "label": "North Arlington High School,North Arlington", 
+        "latitude": 40.519033, 
+        "name": "QuarkNet_6137"
+    }, 
+    "QuarkNet_6136": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6136, 
+        "longitude": -118.461833, 
+        "label": "Wildwood High School,Wildwood High School", 
+        "latitude": 34.031292, 
+        "name": "QuarkNet_6136"
+    }, 
+    "QuarkNet_6619": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6619, 
+        "longitude": -116.679295, 
+        "label": "Vallivue High School,Caldwell", 
+        "latitude": 43.619515, 
+        "name": "QuarkNet_6619"
+    }, 
+    "QuarkNet_6346": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6346, 
+        "longitude": -92.0, 
+        "label": "University of Wisconsin - River Falls,South Pole - IceCube", 
+        "latitude": 45.0, 
+        "name": "QuarkNet_6346"
+    }, 
+    "QuarkNet_6611": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6611, 
+        "longitude": -93.18034, 
+        "label": "Mounds View High School,Mounds View High School", 
+        "latitude": 45.06374, 
+        "name": "QuarkNet_6611"
+    }, 
+    "QuarkNet_6344": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6344, 
+        "longitude": -80.63639, 
+        "label": "Melbourne High School,Melbourne", 
+        "latitude": 28.067645, 
+        "name": "QuarkNet_6344"
+    }, 
+    "QuarkNet_6345": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6345, 
+        "longitude": -87.648348, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.871166, 
+        "name": "QuarkNet_6345"
+    }, 
+    "QuarkNet_6342": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6342, 
+        "longitude": -88.222518, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.841818, 
+        "name": "QuarkNet_6342"
+    }, 
+    "QuarkNet_6687": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6687, 
+        "longitude": -88.262253, 
+        "label": "Fermilab Test Array,Batavia", 
+        "latitude": 41.838702, 
+        "name": "QuarkNet_6687"
+    }, 
+    "QuarkNet_5032": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5032, 
+        "longitude": -86.913535, 
+        "label": "Purdue University,West Lafayette", 
+        "latitude": 40.430578, 
+        "name": "QuarkNet_5032"
+    }, 
+    "QuarkNet_5037": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5037, 
+        "longitude": -92.616667, 
+        "label": "University of Wisconsin-River Falls,River Falls", 
+        "latitude": 44.85, 
+        "name": "QuarkNet_5037"
+    }, 
+    "QuarkNet_6680": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6680, 
+        "longitude": -104.209334, 
+        "label": "Newcastle High School,Newcastle High School", 
+        "latitude": 43.851683, 
+        "name": "QuarkNet_6680"
+    }, 
+    "QuarkNet_6689": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6689, 
+        "longitude": -111.850805, 
+        "label": "Grace High School,Grace High School", 
+        "latitude": 42.22319, 
+        "name": "QuarkNet_6689"
+    }, 
+    "QuarkNet_6688": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6688, 
+        "longitude": -1.928667, 
+        "label": "Univ of Birmingham,Birmingham", 
+        "latitude": 52.4495, 
+        "name": "QuarkNet_6688"
+    }, 
+    "QuarkNet_6468": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6468, 
+        "longitude": -88.765167, 
+        "label": "Northern Illinois University,DeKalb ", 
+        "latitude": 41.932677, 
+        "name": "QuarkNet_6468"
+    }, 
+    "QuarkNet_6467": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6467, 
+        "longitude": -80.624057, 
+        "label": "Palm Bay High,Palm Bay High", 
+        "latitude": 28.062415, 
+        "name": "QuarkNet_6467"
+    }, 
+    "QuarkNet_6462": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6462, 
+        "longitude": -89.691343, 
+        "label": "Sterling High School,Sterling High School", 
+        "latitude": 41.803117, 
+        "name": "QuarkNet_6462"
+    }, 
+    "QuarkNet_6669": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6669, 
+        "longitude": -88.765427, 
+        "label": "Neuqua Valley High School,Naperville", 
+        "latitude": 41.932637, 
+        "name": "QuarkNet_6669"
+    }, 
+    "QuarkNet_6665": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6665, 
+        "longitude": -69.605748, 
+        "label": "Sterling High School,Sterling", 
+        "latitude": 22.58379, 
+        "name": "QuarkNet_6665"
+    }, 
+    "QuarkNet_6664": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6664, 
+        "longitude": -103.86265, 
+        "label": "Spearfish High School,Spearfish High School", 
+        "latitude": 44.500536, 
+        "name": "QuarkNet_6664"
+    }, 
+    "QuarkNet_6667": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6667, 
+        "longitude": 13.632983, 
+        "label": "RV Polarstern,Bremerhaven", 
+        "latitude": 52.34565, 
+        "name": "QuarkNet_6667"
+    }, 
+    "QuarkNet_6666": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6666, 
+        "longitude": -103.872182, 
+        "label": "Aberdeen Central High School,Aberdeen", 
+        "latitude": 44.494433, 
+        "name": "QuarkNet_6666"
+    }, 
+    "QuarkNet_6661": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6661, 
+        "longitude": -117.324835, 
+        "label": "Queensborough Community College,Queensborough Community College", 
+        "latitude": 33.974403, 
+        "name": "QuarkNet_6661"
+    }, 
+    "QuarkNet_6663": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6663, 
+        "longitude": -88.220315, 
+        "label": "PatsLab Fermilab,PatsLab Fermilab", 
+        "latitude": 41.846217, 
+        "name": "QuarkNet_6663"
+    }, 
+    "QuarkNet_6662": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6662, 
+        "longitude": -112.031563, 
+        "label": "Roy High School,Roy High School", 
+        "latitude": 41.176792, 
+        "name": "QuarkNet_6662"
+    }, 
+    "QuarkNet_5048": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5048, 
+        "longitude": -122.075922, 
+        "label": "Castro Valley High School,Castro Valley", 
+        "latitude": 37.704295, 
+        "name": "QuarkNet_5048"
+    }, 
+    "QuarkNet_168": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 168, 
+        "longitude": -96.688982, 
+        "label": "University of Nebraska,Lincoln", 
+        "latitude": 40.806125, 
+        "name": "QuarkNet_168"
+    }, 
+    "QuarkNet_96": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 96, 
+        "longitude": -87.648203, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870535, 
+        "name": "QuarkNet_96"
+    }, 
+    "QuarkNet_94": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 94, 
+        "longitude": -102.30953, 
+        "label": "Muleshoe High School,Muleshoe", 
+        "latitude": 34.654025, 
+        "name": "QuarkNet_94"
+    }, 
+    "QuarkNet_161": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 161, 
+        "longitude": -106.848987, 
+        "label": "Aspen High School,Aspen", 
+        "latitude": 39.18989, 
+        "name": "QuarkNet_161"
+    }, 
+    "QuarkNet_160": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 160, 
+        "longitude": -96.705757, 
+        "label": "University of Nebraska,Lincoln", 
+        "latitude": 40.818493, 
+        "name": "QuarkNet_160"
+    }, 
+    "QuarkNet_166": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 166, 
+        "longitude": -83.069167, 
+        "label": "Michigan Collegiate High School,Warren", 
+        "latitude": 42.3535, 
+        "name": "QuarkNet_166"
+    }, 
+    "QuarkNet_6212": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6212, 
+        "longitude": 140.128, 
+        "label": "Meikei Gakuen High School,Tsukuba", 
+        "latitude": 36.051493, 
+        "name": "QuarkNet_6212"
+    }, 
+    "QuarkNet_6213": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6213, 
+        "longitude": -95.238833, 
+        "label": "Erie High School,Erie", 
+        "latitude": 37.051167, 
+        "name": "QuarkNet_6213"
+    }, 
+    "QuarkNet_6167": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6167, 
+        "longitude": -87.648348, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.871166, 
+        "name": "QuarkNet_6167"
+    }, 
+    "QuarkNet_6165": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6165, 
+        "longitude": -82.34942, 
+        "label": "Gainesville High School,Gainesville", 
+        "latitude": 29.64352, 
+        "name": "QuarkNet_6165"
+    }, 
+    "QuarkNet_6160": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6160, 
+        "longitude": 140.892186, 
+        "label": "Sendai1,Sendai", 
+        "latitude": 38.250259, 
+        "name": "QuarkNet_6160"
+    }, 
+    "QuarkNet_6161": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6161, 
+        "longitude": -86.595957, 
+        "label": "Lakeshore High School,Stevensville", 
+        "latitude": 41.046049, 
+        "name": "QuarkNet_6161"
+    }, 
+    "QuarkNet_6168": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6168, 
+        "longitude": -96.783367, 
+        "label": "Global High School,Waxahachie", 
+        "latitude": 32.846451, 
+        "name": "QuarkNet_6168"
+    }, 
+    "QuarkNet_6169": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6169, 
+        "longitude": -87.786, 
+        "label": "Glenbrook South High School,Glenview", 
+        "latitude": 42.0685, 
+        "name": "QuarkNet_6169"
+    }, 
+    "QuarkNet_5080": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5080, 
+        "longitude": -157.823033, 
+        "label": "LBNL,Berkeley", 
+        "latitude": 21.279067, 
+        "name": "QuarkNet_5080"
+    }, 
+    "QuarkNet_5083": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5083, 
+        "longitude": -86.634627, 
+        "label": "Edgewood High School,Ellettsville", 
+        "latitude": 39.236178, 
+        "name": "QuarkNet_5083"
+    }, 
+    "QuarkNet_5084": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5084, 
+        "longitude": -122.07593, 
+        "label": "Castro Valley High School,Castro Valley", 
+        "latitude": 37.704275, 
+        "name": "QuarkNet_5084"
+    }, 
+    "QuarkNet_5085": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5085, 
+        "longitude": -112.434667, 
+        "label": "Boise Schools,Boise", 
+        "latitude": 42.863167, 
+        "name": "QuarkNet_5085"
+    }, 
+    "QuarkNet_5086": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5086, 
+        "longitude": -123.228893, 
+        "label": "TRIUMF,Vancouver", 
+        "latitude": 49.2487, 
+        "name": "QuarkNet_5086"
+    }, 
+    "QuarkNet_6890": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6890, 
+        "longitude": 139.702964, 
+        "label": "Kaijo Senior and Junior High School,Kaijo Senior and Junior High School", 
+        "latitude": 35.705021, 
+        "name": "QuarkNet_6890"
+    }, 
+    "QuarkNet_118": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 118, 
+        "longitude": -88.765667, 
+        "label": "Plainfield High School,Plainfield", 
+        "latitude": 41.932458, 
+        "name": "QuarkNet_118"
+    }, 
+    "QuarkNet_119": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 119, 
+        "longitude": -122.312798, 
+        "label": "Meadowdale,Lynnwood", 
+        "latitude": 47.845558, 
+        "name": "QuarkNet_119"
+    }, 
+    "QuarkNet_111": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 111, 
+        "longitude": -87.75335, 
+        "label": "Marist HS,Chicago", 
+        "latitude": 41.655805, 
+        "name": "QuarkNet_111"
+    }, 
+    "QuarkNet_6303": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6303, 
+        "longitude": -99.263333, 
+        "label": "Miami Killian HS,Miami", 
+        "latitude": 19.365667, 
+        "name": "QuarkNet_6303"
+    }, 
+    "QuarkNet_6301": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6301, 
+        "longitude": -117.324877, 
+        "label": "Cobalt Institute of Math and Science,Victorville", 
+        "latitude": 33.974446, 
+        "name": "QuarkNet_6301"
+    }, 
+    "QuarkNet_6304": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6304, 
+        "longitude": -88.222518, 
+        "label": "Proviso West,Hillside", 
+        "latitude": 41.841818, 
+        "name": "QuarkNet_6304"
+    }, 
+    "QuarkNet_6305": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6305, 
+        "longitude": -92.625663, 
+        "label": "University of Wisconsin-River Falls,River Falls", 
+        "latitude": 44.853127, 
+        "name": "QuarkNet_6305"
+    }, 
+    "QuarkNet_6308": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6308, 
+        "longitude": -92.616667, 
+        "label": "University of Wisconsin - River Falls,South Pole - IceCube", 
+        "latitude": 44.883333, 
+        "name": "QuarkNet_6308"
+    }, 
+    "QuarkNet_6826": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6826, 
+        "longitude": -86.597364, 
+        "label": "Rossville High School,Rossville High School", 
+        "latitude": 40.413521, 
+        "name": "QuarkNet_6826"
+    }, 
+    "QuarkNet_6820": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6820, 
+        "longitude": -97.622643, 
+        "label": "Deer Creek High School,Deer Creek High School", 
+        "latitude": 35.682433, 
+        "name": "QuarkNet_6820"
+    }, 
+    "QuarkNet_6008": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6008, 
+        "longitude": 120.405913, 
+        "label": "National Kaohsiung Normal University NKNU,Kao-Hsiung", 
+        "latitude": 22.788488, 
+        "name": "QuarkNet_6008"
+    }, 
+    "QuarkNet_6769": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6769, 
+        "longitude": -86.802152, 
+        "label": "Vanderbilt University,Vanderbilt University", 
+        "latitude": 36.143827, 
+        "name": "QuarkNet_6769"
+    }, 
+    "QuarkNet_6005": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6005, 
+        "longitude": -88.26151, 
+        "label": "Fermilab Test Array,Fermilab Test Array", 
+        "latitude": 41.838145, 
+        "name": "QuarkNet_6005"
+    }, 
+    "QuarkNet_6004": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6004, 
+        "longitude": -88.26151, 
+        "label": "Fermilab Test Array,Batavia", 
+        "latitude": 41.838145, 
+        "name": "QuarkNet_6004"
+    }, 
+    "QuarkNet_6238": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6238, 
+        "longitude": 45.468361, 
+        "label": "Tbilisi State University,Tbilisi", 
+        "latitude": 41.910354, 
+        "name": "QuarkNet_6238"
+    }, 
+    "QuarkNet_6239": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6239, 
+        "longitude": 44.743667, 
+        "label": "Tbilisi State University,Tbilisi State University", 
+        "latitude": 41.721404, 
+        "name": "QuarkNet_6239"
+    }, 
+    "QuarkNet_6540": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6540, 
+        "longitude": -36.042167, 
+        "label": "RV Polarstern,Bremerhaven", 
+        "latitude": -18.607222, 
+        "name": "QuarkNet_6540"
+    }, 
+    "QuarkNet_6237": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6237, 
+        "longitude": -83.069467, 
+        "label": "Michigan Collegiate High School,Warren", 
+        "latitude": 42.353748, 
+        "name": "QuarkNet_6237"
+    }, 
+    "QuarkNet_6542": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6542, 
+        "longitude": -77.019983, 
+        "label": "Fermilab,Batavia", 
+        "latitude": 38.887733, 
+        "name": "QuarkNet_6542"
+    }, 
+    "QuarkNet_6235": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6235, 
+        "longitude": -86.912167, 
+        "label": "West Lafayette High School,West Lafayette", 
+        "latitude": 40.43646, 
+        "name": "QuarkNet_6235"
+    }, 
+    "QuarkNet_6233": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6233, 
+        "longitude": -112.446722, 
+        "label": "Preston High School,Logan", 
+        "latitude": 42.863482, 
+        "name": "QuarkNet_6233"
+    }, 
+    "QuarkNet_6231": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6231, 
+        "longitude": -156.4745, 
+        "label": "Maui High School,Maui High School", 
+        "latitude": 20.874, 
+        "name": "QuarkNet_6231"
+    }, 
+    "QuarkNet_6621": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6621, 
+        "longitude": -95.401368, 
+        "label": "Carnegie Vanguard High School,Houston", 
+        "latitude": 29.719537, 
+        "name": "QuarkNet_6621"
+    }, 
+    "QuarkNet_6620": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6620, 
+        "longitude": -88.159, 
+        "label": "Naperville Central High School,Naperville Central High School", 
+        "latitude": 41.763225, 
+        "name": "QuarkNet_6620"
+    }, 
+    "QuarkNet_6622": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6622, 
+        "longitude": -95.4265, 
+        "label": "Carl Wunsche Sr. High School,Spring", 
+        "latitude": 30.075218, 
+        "name": "QuarkNet_6622"
+    }, 
+    "QuarkNet_6625": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6625, 
+        "longitude": -76.62305, 
+        "label": "Damascus High School,Damascus", 
+        "latitude": 39.331517, 
+        "name": "QuarkNet_6625"
+    }, 
+    "QuarkNet_6786": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6786, 
+        "longitude": 12.3835, 
+        "label": "Borupgaard Gymnasium,Borupgaard Gymnasium", 
+        "latitude": 55.736314, 
+        "name": "QuarkNet_6786"
+    }, 
+    "QuarkNet_6628": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6628, 
+        "longitude": -76.194833, 
+        "label": "Norfolk Academy,Norfolk", 
+        "latitude": 36.872885, 
+        "name": "QuarkNet_6628"
+    }, 
+    "QuarkNet_6785": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6785, 
+        "longitude": -71.155833, 
+        "label": "Roxbury Latin School,Roxbury Latin School", 
+        "latitude": 42.275513, 
+        "name": "QuarkNet_6785"
+    }, 
+    "QuarkNet_6780": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6780, 
+        "longitude": -112.434715, 
+        "label": "Idaho Digital Learning Academy,Boise", 
+        "latitude": 42.863482, 
+        "name": "QuarkNet_6780"
+    }, 
+    "QuarkNet_6781": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6781, 
+        "longitude": -111.901992, 
+        "label": "West High School,Salt Lake City", 
+        "latitude": 40.774169, 
+        "name": "QuarkNet_6781"
+    }, 
+    "QuarkNet_200": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 200, 
+        "longitude": 77.589492, 
+        "label": "Bangalore Planetarium,Bangalore", 
+        "latitude": 12.984657, 
+        "name": "QuarkNet_200"
+    }, 
+    "QuarkNet_201": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 201, 
+        "longitude": -87.648203, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870535, 
+        "name": "QuarkNet_201"
+    }, 
+    "QuarkNet_202": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 202, 
+        "longitude": 8.709507, 
+        "label": "Heisenberg Gymnasium,Hamburg", 
+        "latitude": 53.153643, 
+        "name": "QuarkNet_202"
+    }, 
+    "QuarkNet_5101": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5101, 
+        "longitude": 121.0, 
+        "label": "Soochow University,Taipei", 
+        "latitude": 25.0, 
+        "name": "QuarkNet_5101"
+    }, 
+    "QuarkNet_5100": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5100, 
+        "longitude": -87.64821, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.870525, 
+        "name": "QuarkNet_5100"
+    }, 
+    "QuarkNet_5102": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5102, 
+        "longitude": 138.421835, 
+        "label": "Seaman High School,Topeka", 
+        "latitude": 35.027082, 
+        "name": "QuarkNet_5102"
+    }, 
+    "QuarkNet_5105": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5105, 
+        "longitude": -157.925945, 
+        "label": "BYU - Hawaii,Laie", 
+        "latitude": 21.641105, 
+        "name": "QuarkNet_5105"
+    }, 
+    "QuarkNet_5068": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5068, 
+        "longitude": -86.236818, 
+        "label": "Lakeshore High School,Stevensville", 
+        "latitude": 41.68839, 
+        "name": "QuarkNet_5068"
+    }, 
+    "QuarkNet_5066": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5066, 
+        "longitude": -123.072167, 
+        "label": "Bend Senior HIgh School,Bend", 
+        "latitude": 44.04602, 
+        "name": "QuarkNet_5066"
+    }, 
+    "QuarkNet_5067": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5067, 
+        "longitude": -86.237187, 
+        "label": "Lakeshore High School,Stevensville", 
+        "latitude": 41.688307, 
+        "name": "QuarkNet_5067"
+    }, 
+    "QuarkNet_5064": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5064, 
+        "longitude": -66.60974, 
+        "label": "Ponce High School,Ponce", 
+        "latitude": 18.011107, 
+        "name": "QuarkNet_5064"
+    }, 
+    "QuarkNet_5065": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5065, 
+        "longitude": -123.086333, 
+        "label": "South Eugene High School,Eugene", 
+        "latitude": 44.037467, 
+        "name": "QuarkNet_5065"
+    }, 
+    "QuarkNet_5060": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 5060, 
+        "longitude": -88.261, 
+        "label": "Fermilab,Batavia", 
+        "latitude": 41.839225, 
+        "name": "QuarkNet_5060"
+    }, 
+    "QuarkNet_999": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 999, 
+        "longitude": -88.261635, 
+        "label": "Fermilab,Batavia", 
+        "latitude": 41.838255, 
+        "name": "QuarkNet_999"
+    }, 
+    "QuarkNet_6434": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6434, 
+        "longitude": 77.209077, 
+        "label": "University of Delhi,Delhi", 
+        "latitude": 28.69208, 
+        "name": "QuarkNet_6434"
+    }, 
+    "QuarkNet_6435": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6435, 
+        "longitude": -103.872383, 
+        "label": "Hill City High School,Hill City", 
+        "latitude": 44.4946, 
+        "name": "QuarkNet_6435"
+    }, 
+    "QuarkNet_6436": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6436, 
+        "longitude": -103.872333, 
+        "label": "Timber Lake High School,Timber Lake High School", 
+        "latitude": 44.494667, 
+        "name": "QuarkNet_6436"
+    }, 
+    "QuarkNet_6430": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6430, 
+        "longitude": -1.928833, 
+        "label": "Univ of Birmingham,Birmingham", 
+        "latitude": 52.449753, 
+        "name": "QuarkNet_6430"
+    }, 
+    "QuarkNet_6431": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6431, 
+        "longitude": -87.85226, 
+        "label": "Glenbrook South High School,Glenbrook South High School", 
+        "latitude": 42.088333, 
+        "name": "QuarkNet_6431"
+    }, 
+    "QuarkNet_6432": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6432, 
+        "longitude": -157.815, 
+        "label": "Punahou High School,Punahou High School", 
+        "latitude": 21.2865, 
+        "name": "QuarkNet_6432"
+    }, 
+    "QuarkNet_6433": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6433, 
+        "longitude": -117.008167, 
+        "label": "West Valley High School,Hemet", 
+        "latitude": 33.71921, 
+        "name": "QuarkNet_6433"
+    }, 
+    "QuarkNet_6535": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6535, 
+        "longitude": 9.879273, 
+        "label": "DESY,Hamburg", 
+        "latitude": 53.575477, 
+        "name": "QuarkNet_6535"
+    }, 
+    "QuarkNet_6438": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6438, 
+        "longitude": 17.66, 
+        "label": "Uppsala University,Uppsala", 
+        "latitude": 59.866993, 
+        "name": "QuarkNet_6438"
+    }, 
+    "QuarkNet_6439": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6439, 
+        "longitude": -88.261, 
+        "label": "University of Illinois at Chicago,Chicago", 
+        "latitude": 41.839225, 
+        "name": "QuarkNet_6439"
+    }, 
+    "QuarkNet_43": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 43, 
+        "longitude": -65.0375, 
+        "label": "Escuelo Superior Pedro Falu,Rio Grande", 
+        "latitude": 18.823667, 
+        "name": "QuarkNet_43"
+    }, 
+    "QuarkNet_6856": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6856, 
+        "longitude": -67.087733, 
+        "label": "University of Puerto Rico,University of Puerto Rico", 
+        "latitude": 18.176143, 
+        "name": "QuarkNet_6856"
+    }, 
+    "QuarkNet_153": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 153, 
+        "longitude": -122.148662, 
+        "label": "Bellevue College,Bellevue", 
+        "latitude": 47.585168, 
+        "name": "QuarkNet_153"
+    }, 
+    "QuarkNet_155": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 155, 
+        "longitude": -97.446333, 
+        "label": "Putnam City High School,Oklahoma City", 
+        "latitude": 35.207167, 
+        "name": "QuarkNet_155"
+    }, 
+    "QuarkNet_157": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 157, 
+        "longitude": -80.624015, 
+        "label": "Melbourne High School,Melbourne", 
+        "latitude": 28.062387, 
+        "name": "QuarkNet_157"
+    }, 
+    "QuarkNet_159": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 159, 
+        "longitude": -80.624003, 
+        "label": "Melbourne High School,Melbourne", 
+        "latitude": 28.062367, 
+        "name": "QuarkNet_159"
+    }, 
+    "QuarkNet_6851": {
+        "network": "QuarkNet", 
+        "altitude": 0.0, 
+        "number": 6851, 
+        "longitude": -86.414262, 
+        "label": "Greenwood High School,Greenwood High School", 
+        "latitude": 36.927199, 
+        "name": "QuarkNet_6851"
+    }
+}
